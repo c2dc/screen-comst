@@ -1,0 +1,958 @@
+model,price,reviews,sells,url,vendor
+TL-WA850RE,167,(8811),87,https://produto.mercadolivre.com.br/MLB-976249921-repetidor-expansor-tp-link-wi-fi-network-300mbps-tl-wa850re-_JM,TP-Link
+Archer,757.12,(143),8,https://produto.mercadolivre.com.br/MLB-2015068196-roteador-wifi-6-dual-band-gigabit-archer-ax50-_JM,TP-Link
+TL-WA855RE,188,(1816),117,https://produto.mercadolivre.com.br/MLB-1813487847-repetidor-extensor-de-sinal-sem-fio-tp-link-wa-855re-300mbps-_JM,TP-Link
+Archer,267.12,(6703),90,https://produto.mercadolivre.com.br/MLB-1285566515-roteador-tp-link-wireless-dual-band-ac-1350-archer-c60-_JM,TP-Link
+Wireless N150,450,(165),5,https://produto.mercadolivre.com.br/MLB-2055734413-kit-3-extensor-wireless-d-link-n150-powerline-dhp-w221av-_JM,D-Link
+RF 301K,132.90,(1093),3,https://produto.mercadolivre.com.br/MLB-1517787162-roteador-wifi-300mbps-intelbras-rf-301k-2-antenas-_JM,Intelbras
+ACtion,209,(1501),23,https://produto.mercadolivre.com.br/MLB-1825912201-roteador-intelbras-action-rf-1200-preto-100v240v-_JM,Intelbras
+Deco M5,625.50,(141),1,https://produto.mercadolivre.com.br/MLB-1938381221-roteador-tp-link-wireless-ac1300-cx-1-un-deco-m5-_JM,TP-Link
+Twibi Giga,439,(454),56,https://produto.mercadolivre.com.br/MLB-1875840874-1-roteador-wi-fi-mesh-intelbras-twibi-giga-original-intelbra-_JM,Intelbras
+Space,283,(13),2,https://produto.mercadolivre.com.br/MLB-2642479600-roteador-wi-fi-mesh-zte-zt199-space-branco-giga-101001000-_JM,ZTE
+RE017,487.90,(30),4,https://produto.mercadolivre.com.br/MLB-1791344685-roteador-wireless-draco-ac1200-5-antenas-multilaser-re017-_JM,Multilaser
+TP-Link,499,(141),1,https://produto.mercadolivre.com.br/MLB-2787118623-roteador-tp-link-deco-m5-1267mbps-dual-band-01-unidade-_JM,M5
+300mbps,57.99,(6),78,https://produto.mercadolivre.com.br/MLB-1888948231-repetidor-de-sinal-amplificador-wireless-wifi-300mbps-barato-_JM,Repetidor
+Mi,109.99,(1074),4,https://produto.mercadolivre.com.br/MLB-2644639839-repetidor-sinal-wi-fi-xiaomi-mi-range-pro-r03-bi-volt-_JM,Xiaomi
+AC10,242,(252),6,https://produto.mercadolivre.com.br/MLB-2709574191-roteador-wireless-mu-mimo-ac1200-gigabit-dual-band-wifi-ac10-_JM,Tenda
+AP 360,639.90,(146),3,https://produto.mercadolivre.com.br/MLB-1343378412-access-point-corporativo-intelbras-ap360-sem-fio-wisefi-_JM,Intelbras
+MW330HP,179.99,(257),3,https://produto.mercadolivre.com.br/MLB-2127234679-roteador-mercusys-mw330hp-high-power-wireless-300mbps-3-port-_JM,Mercusys
+TL-WA850RE,162,(8811),3,https://produto.mercadolivre.com.br/MLB-710240140-repetidor-2-antenas-wireless-300mbps-tp-link-850re-_JM,TP-Link
+TL-WR949N,189,(2462),13,https://produto.mercadolivre.com.br/MLB-2151819364-roteador-sem-fio-tp-link-wr-940n-wireless-450mbps-3-antenas-_JM,TP-Link
+LV-WR09,109.90,(5358),40,https://produto.mercadolivre.com.br/MLB-1935951028-amplificador-repetidor-sinal-2800m-original-wifi-4-antenas-_JM,Pix-Link
+LV-WR09,83.55,(5358),34839,https://www.mercadolivre.com.br/roteador-repetidor-access-point-wisp-pix-link-lv-wr09-branco-e-preto-100v240v/p/MLB10696017?pdp_filters=category:MLB5867,Pix-Link
+RE305,272,(738),9994,https://www.mercadolivre.com.br/repetidor-tp-link-re305-branco/p/MLB7930834?pdp_filters=item_id:MLB1965875754,TP-Link
+RF 301K,83.51,(1093),32436,https://www.mercadolivre.com.br/repetidor-roteador-intelbras-rf-301k-preto-110v220v/p/MLB15316344?pdp_filters=category:MLB5867,Intelbras
+Sirius,330,(77),1230,https://www.mercadolivre.com.br/access-point-repetidor-roteador-multilaser-sirius-ac2600-re016-preto/p/MLB15908045?pdp_filters=category:MLB5867,Multilaser
+RE163V,90.90,(349),10372,https://www.mercadolivre.com.br/roteador-multilaser-re163v-branco/p/MLB15305518?pdp_filters=category:MLB5867,Multilaser
+Kit Twibi Giga,727.50,(620),10315,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-intelbras-kit-twibi-giga-branco-100v240v-2-unidades/p/MLB15349885?pdp_filters=category:MLB5867,Intelbras
+Deco M5,448,(1235),7206,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-branco-100v240v/p/MLB17331207?pdp_filters=category:MLB5867,TP-Link
+Deco M4,1006,(648),3195,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m4-branco-100v240v-3-unidades/p/MLB16001438?pdp_filters=category:MLB5867,TP-Link
+DIR-819,146,(1504),10521,https://www.mercadolivre.com.br/roteador-d-link-dir-819-preto-110v220v/p/MLB9452636?pdp_filters=category:MLB5867,D-Link
+Omada,205.33,(49),2633,https://www.mercadolivre.com.br/access-point-indoor-tp-link-omada-eap115-branco/p/MLB7953374?pdp_filters=category:MLB5867,TP-Link
+cAP ac,535,(33),2035,https://www.mercadolivre.com.br/access-point-indoor-repetidor-mikrotik-cap-ac-rbcapgi-5acd2nd-branco-100v240v/p/MLB10523184?pdp_filters=category:MLB5867,MikroTik
+WS5800,799,(44),637,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-huawei-ws5800-branco-100v240v-2-unidades/p/MLB16589780?pdp_filters=category:MLB5867,Huawei
+RE305,272,(738),9994,https://www.mercadolivre.com.br/repetidor-tp-link-re305-branco/p/MLB7930834?pdp_filters=category:MLB5867,TP-Link
+Archer,228.90,(721),15140,https://www.mercadolivre.com.br/roteador-wds-bridge-tp-link-archer-c5-w-v4-branco/p/MLB15386549?pdp_filters=category:MLB5867,TP-Link
+RE200,172,(928),14505,https://www.mercadolivre.com.br/range-extender-access-point-wmm-tp-link-re200-v4-branco-220v/p/MLB18240006?pdp_filters=category:MLB5867,TP-Link
+Deco M5,1281,(1235),18961,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-branco-100v240v-3-unidades/p/MLB8063122?pdp_filters=category:MLB5867,TP-Link
+GF 1200,199.99,(175),4018,https://www.mercadolivre.com.br/roteador-intelbras-gf-1200-preto-100v240v/p/MLB15845426?pdp_filters=category:MLB5867,Intelbras
+EXO,478,(69),1193,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-d-link-exo-dir-3040-preto-100v240v/p/MLB19034976?pdp_filters=category:MLB5867,D-Link
+Archer,375.10,(239),5671,https://produto.mercadolivre.com.br/MLB-1826641231-roteador-tp-link-wireless-gigabit-archer-c6-garantia-5-anos-_JM,TP-Link
+DR4,77.80,(266),6193,https://produto.mercadolivre.com.br/MLB-1135305422-repetidor-expansor-de-sinal-wifi-roteador-t25-expansor-300m-_JM,Haiz
+ACtion,319.99,(2204),44393,https://www.mercadolivre.com.br/roteador-repetidor-access-point-intelbras-action-rg-1200-preto-100v240v/p/MLB15344291?pdp_filters=category:MLB5867,Intelbras
+Deco E4,819,(449),3183,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-e4-branco-100v240v-3-unidades/p/MLB16014891?pdp_filters=category:MLB5867,TP-Link
+AW77,198.10,(14),284,https://produto.mercadolivre.com.br/MLB-2751931119-repetidor-wireless-5ghz-amplificador-roteador-wifi-potente-5-_JM,Altom Premium
+Twibi Fast,217.90,(339),7190,https://www.mercadolivre.com.br/roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-4750070-branco-100v240v/p/MLB15392880?pdp_filters=category:MLB5867,Intelbras
+Deco M5,929,(1235),3852,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-branco-100v240v-2-unidades/p/MLB17331206?pdp_filters=category:MLB5867,TP-Link
+TL-R470T+,229,(423),5083,https://www.mercadolivre.com.br/roteador-tp-link-tl-r470t-preto-110v220v/p/MLB7868092?pdp_filters=category:MLB5867,TP-Link
+Deco,1369,(108),1916,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-access-point-roteador-wmm-tp-link-deco-deco-m5-v3-branco-220v-3-unidades/p/MLB18384167?pdp_filters=category:MLB5867,TP-Link
+UniFi,651.20,(581),32819,https://www.mercadolivre.com.br/access-point-indoor-wmm-ubiquiti-unifi-ac-lite-ap-uap-ac-lite-branco-220v/p/MLB6186905?pdp_filters=category:MLB5867,Ubiquiti
+Cosmo,277,(469),6927,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-multilaser-cosmo-re010-branco-2-unidades/p/MLB15345756?pdp_filters=category:MLB5867,Multilaser
+Wi-Fi repeater,72.80,(116),3877,https://produto.mercadolivre.com.br/MLB-1631567961-repetidor-amplificador-extensor-de-sinal-600mbps-barato-_JM,Wireless-n Repeater
+Mi,168,(39),1072,https://www.mercadolivre.com.br/access-point-range-extender-xiaomi-mi-ra75-preto-100v240v/p/MLB18520062?pdp_filters=category:MLB5867,Xiaomi
+Omada,687.66,(20),1135,https://www.mercadolivre.com.br/access-point-outdoor-wmm-tp-link-omada-eap225-outdoor-v1-branco-220v/p/MLB18459896?pdp_filters=category:MLB5867,TP-Link
+AW77,185.10,(11),428,https://produto.mercadolivre.com.br/MLB-2750074761-repetidor-wireless-5g-roteador-potente-wifi-5ghz-sem-fio-24-_JM,Altom Premium
+Archer,340,(543),9722,https://www.mercadolivre.com.br/access-point-roteador-tp-link-archer-c80-v1-preto-220v/p/MLB15904250?pdp_filters=category:MLB5867,TP-Link
+MR50G,250.85,(170),3236,https://www.mercadolivre.com.br/access-point-roteador-mercusys-mr50g-v1-preto-100v240v/p/MLB16181780?pdp_filters=category:MLB5867,Mercusys
+Deco M4,675,(648),6120,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m4-branco-100v240v-2-unidades/p/MLB16001437?pdp_filters=category:MLB5867,TP-Link
+MW301R,64.92,(1268),73931,https://www.mercadolivre.com.br/roteador-mercusys-mw301r-v1-branco-220v/p/MLB11426701?pdp_filters=category:MLB5867,Mercusys
+Archer,137,(5532),34192,https://www.mercadolivre.com.br/roteador-tp-link-archer-c20-azul-e-branco-100v240v/p/MLB6186907?pdp_filters=category:MLB5867,TP-Link
+DIR-842,198,(816),23132,https://www.mercadolivre.com.br/roteador-repetidor-sistema-wi-fi-mesh-access-point-wisp-d-link-dir-842-preto-100v240v/p/MLB15994670?pdp_filters=category:MLB5867,D-Link
+TL-WR949N,169.15,(2462),19383,https://www.mercadolivre.com.br/roteador-tp-link-tl-wr949n-preto/p/MLB9141025?pdp_filters=category:MLB5867,TP-Link
+Omada,210.93,(48),2255,https://www.mercadolivre.com.br/access-point-indoor-tp-link-omada-eap110-branco/p/MLB15354537?pdp_filters=category:MLB5867,TP-Link
+AX3 Quad-Core,408,(253),4291,https://www.mercadolivre.com.br/roteador-huawei-ax3-quad-core-branco-100v240v/p/MLB17474302?pdp_filters=category:MLB5867,Huawei
+EC220-G5,240.19,(482),14817,https://www.mercadolivre.com.br/roteador-tp-link-ec220-g5-branco-110v220v/p/MLB16268838?pdp_filters=category:MLB5867,TP-Link
+RE200,180.50,(93),2061,https://www.mercadolivre.com.br/access-point-range-extender-wmm-tp-link-re200-v5-branco-220v/p/MLB18243252?pdp_filters=category:MLB5867,TP-Link
+Mi,89.99,(1074),23360,https://www.mercadolivre.com.br/repetidor-range-extender-xiaomi-mi-wi-fi-range-extender-pro-r03-preto-100v240v/p/MLB10448369?pdp_filters=category:MLB5867,Xiaomi
+TL-WR829N,87.50,(470),21597,https://www.mercadolivre.com.br/access-point-roteador-range-extender-wisp-tp-link-tl-wr829n-branco/p/MLB16067272?pdp_filters=category:MLB5867,TP-Link
+Archer,179.22,(1235),26575,https://www.mercadolivre.com.br/roteador-access-point-wds-bridge-wmm-tp-link-archer-c50-v4-branco-220v/p/MLB15304684?pdp_filters=category:MLB5867,TP-Link
+Mi,168,(39),1072,https://www.mercadolivre.com.br/access-point-range-extender-xiaomi-mi-ra75-preto-100v240v/p/MLB18520062?pdp_filters=item_id:MLB2214498728,Xiaomi
+TL-WA850RE,128.88,(8811),99314,https://www.mercadolivre.com.br/repetidor-tp-link-tl-wa850re-branco-220v/p/MLB6186903?pdp_filters=category:MLB5867,TP-Link
+TL-WR840N,101,(2505),65991,https://www.mercadolivre.com.br/roteador-tp-link-tl-wr840n-branco/p/MLB15314118?pdp_filters=category:MLB5867,TP-Link
+DR4 300M,44.19,(1390),46773,https://www.mercadolivre.com.br/repetidor-dhj-dr4-300m-branco-110v220v/p/MLB17289456?pdp_filters=category:MLB5867,DHJ
+TL-WA850RE,155.99,(8811),11,https://produto.mercadolivre.com.br/MLB-2612993206-repetidor-de-sinal-wifi-wireless-tp-link-tl-wa850re-300mbps-_JM,TP-Link
+Deco,675,(648),1,https://produto.mercadolivre.com.br/MLB-2810943206-roteador-tp-link-sistema-wi-fi-mesh-ac1200-deco-m4-2-pack-_JM,TP-Link
+Deco,2798,(58),4,https://produto.mercadolivre.com.br/MLB-2029261310-roteador-mesh-tp-link-deco-x20-ax1800-wi-fi-6-3-pack-3-pecas-_JM,TP-Link
+Deco,1900,(1235),1,https://produto.mercadolivre.com.br/MLB-1920894235-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+MW301R,99,(786),12,https://produto.mercadolivre.com.br/MLB-1486892792-roteador-wireles-wifi-sem-fio-mw301r-300mbps-2-antenas-_JM,Mercusys
+TL-WA855RE,213.90,(1816),1,https://produto.mercadolivre.com.br/MLB-2065635724-repetidor-e-extensor-de-sinal-wifi-tp-link-tl-wa855re-300mbp-_JM,TP-Link
+Archer,285.60,(6703),2,https://produto.mercadolivre.com.br/MLB-2742638365-roteador-wireless-tp-link-archer-c60-dual-band-ac1350-branco-_JM,TP-Link
+Twibi Giga,475,(454),1,https://produto.mercadolivre.com.br/MLB-2048521305-roteador-wi-fi-mesh-intelbras-twibi-giga-branco-101001000-_JM,Intelbras
+RE305,306.24,(738),5,https://produto.mercadolivre.com.br/MLB-2029113945-repetidor-tp-link-re305-wi-fi-dual-band-extensor-sem-fio-_JM,TP-Link
+Archer,222.10,(1644),4,https://produto.mercadolivre.com.br/MLB-2627219618-roteador-tplink-archer-c20w-wifi-ac-750mbps-3-antenas-_JM,TP-Link
+Twibi Giga,492.34,(312),1,https://produto.mercadolivre.com.br/MLB-2079109271-roteador-modulo-wifi-mesh-twibi-giga-intelbras-_JM,Intelbras
+AP 1350 AC,1299.90,(18),3,https://produto.mercadolivre.com.br/MLB-2737318147-access-point-roteador-wireless-corp-ap-1350ac-s-intelbras-_JM,Intelbras
+TL-WR829N,99,(470),3,https://produto.mercadolivre.com.br/MLB-2735010235-roteador-wireless-multimodo-tp-link-300-mbps-tl-wr829n-_JM,TP-Link
+Deco,898,(449),24,https://produto.mercadolivre.com.br/MLB-1725166311-roteador-wifi-mesh-tp-link-deco-e4-dual-band-1200mbps-pack-3-_JM,TP-Link
+Deco,1535,(108),12,https://produto.mercadolivre.com.br/MLB-1587073155-roteador-tp-link-deco-m5-3-pack-mesh-ac1300-p-entrega-sp-_JM,TP-Link
+LV-WR09,105,(423),12,https://produto.mercadolivre.com.br/MLB-2691568759-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-router-_JM,Pix-Link
+Archer,345.21,(1616),5,https://produto.mercadolivre.com.br/MLB-2674729060-roteador-tp-link-archer-c6-ac1200-wireless-gigabite-dual-_JM,TP-Link
+COVR-1102,439,(146),7,https://produto.mercadolivre.com.br/MLB-2178316628-roteador-d-link-mesh-covr-1102-ac1200-giga-dual-band-2und-br-_JM,D-Link
+TL-WA850RE,155,(8811),45,https://produto.mercadolivre.com.br/MLB-740997335-repetidor-wireless-300mbps-tp-link-tl-wa850re-expansor-wifi-_JM,TP-Link
+DAP-1325,134.99,(362),1,https://produto.mercadolivre.com.br/MLB-2820564569-repetidor-wifi-dlink-dap-1325-wireless-mesh-rj45-bivolt-_JM,D-Link
+LV-WR08,119.99,(240),181,https://produto.mercadolivre.com.br/MLB-1511109984-roteador-wireless-wifi-sem-fio-pixlink-300mbps-4-antenas-_JM,Pix-Link
+RE057,109.99,(70),4,https://produto.mercadolivre.com.br/MLB-1731819487-roteador-multilaser-wireless-150mbps-re057-_JM,Multilaser
+Link 3G,890,(31),435,https://produto.mercadolivre.com.br/MLB-1524487424-kit-link-rural-elsys-intenet-3g-roteador-cabos-e-antena-_JM,Elsys
+MW3,542,(164),3,https://produto.mercadolivre.com.br/MLB-2647952929-roteador-wi-fi-mesh-mw3-ac1200-tenda-3-unidades-_JM,Tenda
+MW301R,120.49,(1268),1,https://produto.mercadolivre.com.br/MLB-1933647237-roteador-mercusys-wireless-n-300mbps-mw301r-nf-e-_JM,Mercusys
+DIR-503A,59.90,(4),8,https://produto.mercadolivre.com.br/MLB-2042461662-repetidor-de-sinal-wifi-d-link-dir-503a-wireless-150mbps-_JM,D-Link
+RE018,146.07,(521),1,https://produto.mercadolivre.com.br/MLB-2670558972-roteador-wifi-multilaser-wireless-4-antenas-dual-24ghz-_JM,Multilaser
+MW300RE,105.90,(192),35,https://produto.mercadolivre.com.br/MLB-1744602497-repetidor-mercusys-wi-fi-300mbps-mw300re-_JM,Mercusys
+WIN 240,93,(24),1,https://produto.mercadolivre.com.br/MLB-2792735749-roteador-wireless-intelbras-win-240-novo-_JM,Intelbras
+WR09,124.90,(5),51,https://produto.mercadolivre.com.br/MLB-1663342981-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-_JM,Paizao Store
+Deco,2782.94,(27),16,https://produto.mercadolivre.com.br/MLB-2066372337-roteador-tp-link-deco-m9-plus-3-un-mesh-ac2200-tri-band-v2-_JM,TP-Link
+RE163,139.70,(1556),4,https://produto.mercadolivre.com.br/MLB-697622335-roteador-wifi-wireless-300-mbps-3-antenas-re163-_JM,Multilaser
+AC1750,548,(1152),29,https://produto.mercadolivre.com.br/MLB-1398564577-repetidor-de-sinal-tp-link-re450-1750mbps-wifi-ac-dual-band-_JM,TP-Link
+Archer,1280,(69),9,https://produto.mercadolivre.com.br/MLB-1968845947-roteador-wifi-6-gigabit-ax5400-dual-band-archer-ax73-_JM,TP-Link
+ACtion,244,(1809),343,https://produto.mercadolivre.com.br/MLB-1354471816-roteador-wireless-action-intelbras-rf-1200-smart-dual-band-_JM,Intelbras
+MW3,525.90,(164),17,https://produto.mercadolivre.com.br/MLB-1805099071-kit-2-roteadores-wi-fi-tenda-nova-mw3-rede-mesh-ac1200-mbps-_JM,Tenda
+Archer,659.99,(185),4,https://produto.mercadolivre.com.br/MLB-1697220384-tp-link-archer-ax50-router-ax3000-wifi-6-dual-band-onemesh-_JM,TP-Link
+MW325R,169.90,(245),8,https://produto.mercadolivre.com.br/MLB-1120102546-roteador-wireless-300-mbps-c-4-antenas-fixas-mercusys-_JM,Mercusys
+TL-WR820N,142.97,(8),11,https://produto.mercadolivre.com.br/MLB-1264371107-roteador-tp-link-tl-wr820n-wireless-300mbps-2-antenas-2lan-_JM,TP-Link
+AP 1750 AC,1458.90,(15),16,https://produto.mercadolivre.com.br/MLB-1502043758-roteadoracess-point-corporativo-ap-1750-ac-intelbras-_JM,Intelbras
+EPRL12,739.20,(12),156,https://produto.mercadolivre.com.br/MLB-1397698675-link-4g-amplimax-elsys-internet-e-celular-rural-cabo-20-mt-_JM,Elsys
+EPRL12,629,(19),269,https://produto.mercadolivre.com.br/MLB-1252069326-roteador-externo-4g-3g-2g-amplimax-elsys-_JM,Elsys
+GF 1200,291.80,(175),21,https://produto.mercadolivre.com.br/MLB-1973500114-roteador-intelbras-wi-fi-5-dual-band-ac-gf1200-preto-bivolt-_JM,Intelbras
+AC120,141.84,(43),8,https://produto.mercadolivre.com.br/MLB-2169843417-roteador-mercusys-wireless-dual-band-ac120-_JM,Mercusys
+Mi,89.99,(1074),52,https://produto.mercadolivre.com.br/MLB-1809772867-repetidor-xiaomi-mi-pro-300m-preto-_JM,Xiaomi
+TL-WR829N,99,(470),11,https://produto.mercadolivre.com.br/MLB-2755196130-roteador-wireless-4-em-1-tl-wr829n-bivolt-2-antenas-tplink-_JM,TP-Link
+Deco,529,(1235),6,https://produto.mercadolivre.com.br/MLB-2669858197-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+Mi,118.62,(1074),14,https://produto.mercadolivre.com.br/MLB-1923450623-repetido-roteador-wifi-xiaomi-pro-original-frete-gratis-cnf-_JM,Xiaomi
+TL-WA850RE,179.90,(4936),8,https://produto.mercadolivre.com.br/MLB-1485222771-repetidor-de-sinal-wi-fi-tl-wa850re-300mbps-tp-link-_JM,TP-Link
+Mi,109.99,(1074),6,https://produto.mercadolivre.com.br/MLB-2011192356-repetidor-xiaomi-mi-pro-300m-preto-100v240v-_JM,Xiaomi
+RE505X,539,(30),3,https://produto.mercadolivre.com.br/MLB-2018698535-range-extender-tp-link-re505x-branco-_JM,TP-Link
+TL-MR3420,215,(47),7,https://produto.mercadolivre.com.br/MLB-1786372151-roteador-wireless-3g4g-300mbps-tp-link-tl-mr3420-_JM,TP-Link
+RE450,440,(1152),8,https://produto.mercadolivre.com.br/MLB-1065338988-extensor-de-alcance-tplink-re450-1750mbps-repetidor-wifi-ac-_JM,TP-Link
+Twibi Giga+,423.04,(312),4,https://produto.mercadolivre.com.br/MLB-1816226561-roteador-wi-fi-5-mesh-twib-giga-intelbras-_JM,Intelbras
+MW3,379,(164),6,https://produto.mercadolivre.com.br/MLB-2682361241-sistema-wi-fi-mesh-tenda-mw3-branco-100v240v-2-unidades-_JM,Tenda
+Deco,499.99,(1235),5,https://produto.mercadolivre.com.br/MLB-2759726375-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+Mi,89,(1074),2,https://produto.mercadolivre.com.br/MLB-2802570288-repetidor-xiaomi-mi-wi-fi-extensor-pro-r03-preto-100v240v-_JM,Xiaomi
+Mi,99.49,(1074),58,https://produto.mercadolivre.com.br/MLB-1236641359-xiaomi-pro-300m-repetidor-wifi-amplificador-adaptador-ac-_JM,Xiaomi
+Mi,99.99,(1074),5,https://produto.mercadolivre.com.br/MLB-2620202114-repetidor-range-extender-xiaomi-mi-wi-fi-range-pro-100v240-_JM,Xiaomi
+Repitidor 4 Antenas,83.99,(5358),9,https://produto.mercadolivre.com.br/MLB-2730832253-repetidor-wifi-4-antenas-amplificador-de-sinal-500mbs-link-_JM,Pix-Link
+300MPS,79,(50),711,https://produto.mercadolivre.com.br/MLB-1411662622-repetidor-de-sinal-wifi-t90-300mb-wireless-pronta-entrega-_JM,Wi-Fi Repetidor
+EC220-G5,318,(482),66,https://produto.mercadolivre.com.br/MLB-1854302933-roteador-wi-fi-tp-link-ac1200-ec220-g5-gigabit-1200mbps-_JM,TP-Link
+Nova MW3,505.99,(15),117,https://produto.mercadolivre.com.br/MLB-1281985970-roteador-wireless-tenda-mw3-ac-1200mbps-sistema-mesh-original-lacrado-c-garantia-_JM,Tenda
+Deco M5,567.91,(141),1,https://produto.mercadolivre.com.br/MLB-1938383881-roteador-tp-link-wireless-ac1300-cx-1-un-deco-m5-_JM,TP-Link
+RT-AC59U,377.52,(105),3,https://produto.mercadolivre.com.br/MLB-2774375472-roteador-wireless-asus-ac1500-gigabit-dualband-rt-ac59u-v2-_JM,Asus
+Deco,2097.90,(1235),1,https://produto.mercadolivre.com.br/MLB-1676914734-kit-3-pecas-repetidor-gigabit-wi-fi-deco-m5-ac1300-tplink-_JM,TP-Link
+TL-WA855RE,175.90,(845),141,https://produto.mercadolivre.com.br/MLB-1182215378-repetidor-extensor-wi-fi-2-antenas-tp-link-_JM,TP-Link
+Wireless N,70,(211),11,https://produto.mercadolivre.com.br/MLB-2735490861-roteador-d-link-wireless-n-dir-815-preto-_JM,D-Link
+TL-WA850RE,148,(8811),1,https://produto.mercadolivre.com.br/MLB-1743476012-repetidor-sinal-wi-fi-300mbps-tplink-tl-wa850re-_JM,TP-Link
+TL-WPA4220Tv3.0,588,(4),111,https://produto.mercadolivre.com.br/MLB-1737347924-pack-3-extensor-sinal-wi-fi-powerline-tp-link-av600-wpa4220-_JM,TP-Link
+AC8,322.24,(43),2,https://produto.mercadolivre.com.br/MLB-1811796646-roteador-wifi-fast-4-antenas-dual-band-ac8-1200-tenda-_JM,Tenda
+Repetidor 4 Antenas,98,(39),654,https://produto.mercadolivre.com.br/MLB-1817949069-repetidor-wi-fi-mini-roteador-wireless-4-antenas-2800m-_JM,IMPORTADS
+TL-MR3420,215,(47),1,https://produto.mercadolivre.com.br/MLB-1872557643-roteador-wireless-n-300mbps-3g4g-tl-mr3420-_JM,TP-Link
+Deco,472,(1235),24,https://produto.mercadolivre.com.br/MLB-1833384108-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+Deco,1477.35,(1235),233,https://produto.mercadolivre.com.br/MLB-1368955176-roteador-tp-link-wireless-ac1300-cx-3-un-deco-m5-_JM,TP-Link
+Deco,980,(108),1,https://produto.mercadolivre.com.br/MLB-1693647763-roteador-tp-link-deco-m5-branco-100v240v-2-unidades-c-nfe-_JM,TP-Link
+TL-WA850RE,172.60,(8811),5,https://produto.mercadolivre.com.br/MLB-1480140579-repetidor-de-sinal-wifi-wireless-tp-link-300mbps-850re-_JM,TP-Link
+ACtion,213.74,(1809),14,https://produto.mercadolivre.com.br/MLB-1970440866-roteador-intelbras-rf1200-wireless-action-smart-dual-band-_JM,Intelbras
+Twibi Fast,645.90,(339),3,https://produto.mercadolivre.com.br/MLB-1700570027-roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-2unidade-_JM,Intelbras
+DR4 300M,60.91,(1390),244,https://produto.mercadolivre.com.br/MLB-1895654385-repetidor-wireless-de-sinal-wifi-amplificador-300mbps-nf-_JM,DHJ
+ACtion,196,(1809),55,https://produto.mercadolivre.com.br/MLB-1909824882-roteador-wireless-intelbras-action-rf-1200-preto-100v240v-_JM,Intelbras
+DR4 300M,57.90,(1390),12,https://produto.mercadolivre.com.br/MLB-1895283957-repetidor-wireless-barato-envio-em-24h-pronta-entrega-nf-_JM,DHJ
+Deco,1418,(108),5,https://produto.mercadolivre.com.br/MLB-2214050596-roteador-repetidor-tp-link-deco-m5-ac1300-cx-3-un-_JM,TP-Link
+TL-WPA4220,538,(811),11,https://produto.mercadolivre.com.br/MLB-2022821987-pack-3-extensor-sinal-wi-fi-powerline-tp-link-av600-wpa4220-_JM,TP-Link
+TL-WR949N,265.59,(2462),1,https://produto.mercadolivre.com.br/MLB-2752184872-roteador-amplificador-de-sinal-wifi-tp-link-wr949n-_JM,TP-Link
+LV-WR09,96,(423),4,https://produto.mercadolivre.com.br/MLB-2061432037-repetidor-wifi-2800m-4-antenas-amplificador-de-sinal-lv-wr09-_JM,Pix-Link
+Cosmo,379.99,(413),8,https://produto.mercadolivre.com.br/MLB-2071060605-roteador-multilaser-mesh-cosmo-ac1200-2-pecas-re010-_JM,Multilaser
+Twibi Fast,259.99,(339),2,https://produto.mercadolivre.com.br/MLB-1759093711-roteador-wi-fi-mesh-intelbras-twibi-fast-longo-alcance-4904-_JM,Intelbras
+"Roteador Wifi, 4 Portas , Roteador , Roteador Wi Fi , Repetidor de Sinais , Repetior Wifi, IPV6, 1200AC",392.49,(64),44,https://produto.mercadolivre.com.br/MLB-2166541110-repetidor-wi-fi-4-portas-101001000-ipv6-1200ac-greatek-_JM,Greatek
+Deco,1694.94,(1235),13,https://produto.mercadolivre.com.br/MLB-1643381637-roteador-wireless-deco-m5-ac1300-tp-link-decom5-_JM,TP-Link
+WOM,390.90,(11),199,https://www.mercadolivre.com.br/access-point-outdoor-wmm-wds-bridge-roteador-intelbras-wom-5000-mimo-branco-100v240v/p/MLB19090164?pdp_filters=category:MLB5867,Intelbras
+Conjunto Giga+,689,(218),46,https://produto.mercadolivre.com.br/MLB-2054675975-roteador-intelbras-twibi-giga-mesh-wifi-wirelless-2-unidade-_JM,Intelbras
+Omada,248,(49),3,https://produto.mercadolivre.com.br/MLB-2625171737-access-point-corporativo-tp-link-eap-115-wireless-n-300-mbps-_JM,TP-Link
+Roteador 3G/4G,209.90,(149),12,https://produto.mercadolivre.com.br/MLB-2150876739-mini-roteador-3g-4g-tp-link-tl-mr3020-wireless-portatil-_JM,TP-Link
+AP 310,349.99,(122),2,https://produto.mercadolivre.com.br/MLB-2667017499-access-point-intelbras-ap-310-roteador-wifi-300mbps-24ghz-_JM,Intelbras
+Twibi Fast,241.76,(339),57,https://produto.mercadolivre.com.br/MLB-1951506513-roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-1-unidade-_JM,Intelbras
+MW3,406,(164),2,https://produto.mercadolivre.com.br/MLB-2095720503-roteador-wi-fi-mesh-tenda-mw3-branco-110v220v-2-unidades-_JM,Tenda
+TL-MR3420,200,(47),9,https://produto.mercadolivre.com.br/MLB-884049137-roteador-wireless-3g4g-300mbps-tp-link-tl-mr3420-_JM,TP-Link
+Kit Twibi Giga,789,(620),13,https://produto.mercadolivre.com.br/MLB-1951501893-kit-2-un-roteador-intelbras-twibi-giga-mesh-ac1200-branco-_JM,Intelbras
+Archer,248,(6703),12,https://produto.mercadolivre.com.br/MLB-1595271720-roteador-tp-link-archer-c60-ac1350-wireless-dual-band-branco-_JM,TP-Link
+LV-WR09,132.68,(5358),10,https://produto.mercadolivre.com.br/MLB-2147060186-repetidor-pixlink-4-antenas-amplificador-de-sinal-2800m-wifi-_JM,Pix-Link
+Mi,119,(1074),3,https://produto.mercadolivre.com.br/MLB-2169004295-repetidor-de-sinal-xiaomi-mi-wi-fi-300mbps-oferta-_JM,Xiaomi
+Deco,689,(648),58,https://produto.mercadolivre.com.br/MLB-1912760412-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m4-_JM,TP-Link
+Deco,1477.35,(108),3,https://produto.mercadolivre.com.br/MLB-2607045178-roteador-tp-link-wireless-ac1300-cx-3-un-deco-m5-_JM,TP-Link
+Deco E4,814.32,(161),2,https://produto.mercadolivre.com.br/MLB-2075820712-roteador-ac1200-mesh-deco-e4-2-pack-_JM,TP-Link
+airCube,810,(4),1,https://produto.mercadolivre.com.br/MLB-2723852614-roteador-aircube-wifi-ac-dual-band-4-ge-acb-ac-router-_JM,Ubiquiti
+TL-WR949N,209.23,(2462),2,https://produto.mercadolivre.com.br/MLB-2690628785-roteador-tp-link-wi-fi-3-antenas-450mbps-tl-wr949n-preto-_JM,TP-Link
+Kit Twibi Giga+,899.50,(218),189,https://produto.mercadolivre.com.br/MLB-1825942968-kit-2-roteadores-wireless-mesh-dual-band-twibi-giga--_JM,Intelbras
+RouterBOARD,243.39,(115),1026,https://produto.mercadolivre.com.br/MLB-1064855925-mikrotik-routerboard-rb-941-2nd-tc-l4-hap-lite--_JM,MikroTik
+RT-AC59U,299,(105),31,https://produto.mercadolivre.com.br/MLB-1791142298-roteador-asus-rt-ac59u-ac1500-d-band-4-ant-wifi-mumimo-giga-_JM,Asus
+Archer,299.99,(6703),1,https://produto.mercadolivre.com.br/MLB-2665055750-roteador-sinal-wifi-tp-link-archer-c60-bi-volt-5-antenas-_JM,TP-Link
+Deco,1498.70,(1235),11,https://produto.mercadolivre.com.br/MLB-2015305748-roteador-tp-link-wireless-mesh-deco-m5-ac1300-1300mbps-3-un-_JM,TP-Link
+LV-WR09,119.99,(5358),1,https://produto.mercadolivre.com.br/MLB-1712424438-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-pixlink-_JM,Pix-Link
+EXO,489,(23),4,https://produto.mercadolivre.com.br/MLB-2185107445-roteador-sistema-wi-fi-mesh-d-link-exo-dir-3040-preto-_JM,D-Link
+Deco,1049,(648),6,https://produto.mercadolivre.com.br/MLB-1544852252-roteador-mesh-tp-link-deco-m4-3-pack-ac1200-wifi-_JM,TP-Link
+TL-WA850RE,179.99,(8811),19,https://produto.mercadolivre.com.br/MLB-1710429567-repetidor-de-sinal-wireless-wi-fi-tp-link-tl-wa850re-300mbps-_JM,TP-Link
+Deco,598,(1235),42,https://produto.mercadolivre.com.br/MLB-1778270784-roteador-wi-fi-mesh-tp-link-deco-m5-gigabit-dual-band-ac1300-_JM,TP-Link
+Mi,109.85,(1074),6,https://produto.mercadolivre.com.br/MLB-2633983449-repetidor-range-extender-xiaomi-mi-pro-r03-preto-100v240v-_JM,Xiaomi
+Omada,199.90,(49),2,https://produto.mercadolivre.com.br/MLB-2039519958-ponto-de-acesso-wireless-tp-link-eap115-300mbps-_JM,TP-Link
+WS5200,368,(185),8,https://produto.mercadolivre.com.br/MLB-2187789078-roteador-wifi-gigabit-huawei-ws5200-ac1300-dual-core-gigabit-_JM,Huawei
+Deco,846,(58),1,https://produto.mercadolivre.com.br/MLB-2671471526-access-point-roteadorwi-fi-mesh-tp-link-deco-x20-branco-_JM,TP-Link
+MF79S,366.95,(5),82,https://produto.mercadolivre.com.br/MLB-832033126-mini-roteador-wi-fi-3g4g-zte-mf79s-desbloqueado-_JM,ZTE
+Repetidor Roteador WiFi Wireless Smartphones Tablets Smart TVs 100Mbps 300Mbps RJ-45 Bivolt repetidor de sinal repetidor wifi multiplicador de sinal repetidor wifi repetidor de internet multiplicador de sinal duplicador de sinal,69.80,(13),270,https://produto.mercadolivre.com.br/MLB-1426008693-repetidor-amplificador-melhora-sinal-wifi-300mbps-botao-wps-_JM,Repetidor WI-FI
+Archer,265,(103),869,https://produto.mercadolivre.com.br/MLB-943966665-roteador-wireless-dual-band-ac-1350-archer-c60-tp-linknovo-_JM,TP-Link
+AP 360,533,(70),7,https://produto.mercadolivre.com.br/MLB-1204576831-roteador-intelbras-access-point-teto-ap360-300mbps-poe-wifi-_JM,Intelbras
+LV-WR09,94.90,(423),2,https://produto.mercadolivre.com.br/MLB-2797185191-roteador-repetidor-wi-fi-4-antenas-amplificador-de-tomada-_JM,Pix-Link
+UniFi,1699,(369),1,https://produto.mercadolivre.com.br/MLB-1962187654-ubnt-uap-nanohd-br-4x4-mu-mimo-wave2-wifi-ap-2450ghz-_JM,Ubiquiti
+RE160V,89,(263),7,https://produto.mercadolivre.com.br/MLB-2641214375-roteador-wireless-300-mbps-duas-antenas-ipv6-re160v-_JM,Multilaser
+Deco,1485.90,(108),2,https://produto.mercadolivre.com.br/MLB-2808266166-roteador-repetidor-ac1300-deco-m5-tp-link-cx-3-unidades-_JM,TP-Link
+REPEATER 2,167.99,(7),312,https://produto.mercadolivre.com.br/MLB-701984342-repetidor-de-rede-sinal-wifi-sem-fio-wireless-roteador-wps-_JM,Wei Tus
+Twibi Giga,414.90,(454),2,https://produto.mercadolivre.com.br/MLB-2601554354-roteador-wi-fi-5-mesh-ac1200-branco-intelbras-twibi-giga-_JM,Intelbras
+RE200,195.20,(928),4,https://produto.mercadolivre.com.br/MLB-1385691479-repetidor-acess-point-wireless-tp-link-re200-ac750-dual-band-_JM,TP-Link
+Archer,300.20,(3443),5,https://produto.mercadolivre.com.br/MLB-2650940715-roteador-tp-link-wifi-dual-band-ac1350-archer-c60-5-antenas-_JM,TP-Link
+RE200,219.99,(93),15,https://produto.mercadolivre.com.br/MLB-2200468412-repetidor-wi-fi-tp-link-re200-dual-band-v5-bi-volt-_JM,TP-Link
+Mi,93,(1074),7,https://produto.mercadolivre.com.br/MLB-2728690086-repetidor-range-extender-xiaomi-mi-wi-fi-range-extender-pro-_JM,Xiaomi
+Deco,2798,(58),11,https://produto.mercadolivre.com.br/MLB-1919515649-roteador-wireless-tp-link-deco-x20-ax1800-wifi-6-mesh-kit-3-_JM,TP-Link
+3G,979,(4),40,https://produto.mercadolivre.com.br/MLB-1648389545-kit-internet-rural-4g-3g-aquario-rot-wifi-ant-ext-cabo-_JM,Aquário
+Deco,898,(449),51,https://produto.mercadolivre.com.br/MLB-1725169441-roteador-wireless-tp-link-deco-e4-ac1200-mesh-fast-pack-3-_JM,TP-Link
+Mi,194.97,(271),6,https://produto.mercadolivre.com.br/MLB-2608368700-roteador-wireless-wifi-xiaomi-mi-4a-branco-110v240v-_JM,Xiaomi
+MW301R,85,(1268),10,https://produto.mercadolivre.com.br/MLB-2203151380-roteador-wireless-n-300-mbps-mercusys-mw301r-_JM,Mercusys
+Deco,620,(1235),1,https://produto.mercadolivre.com.br/MLB-1854329992-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-100v240v-_JM,TP-Link
+AC8,220,(43),7,https://produto.mercadolivre.com.br/MLB-2753877360-roteador-wifi-ac1200-dual-band-gigabit-_JM,Tenda
+AC12G,238.88,(671),16,https://produto.mercadolivre.com.br/MLB-1609317185-roteador-mercusys-ac12g-preto-wifi-dualband-gigabit-pc-gamer-_JM,Mercusys
+DAP-1325,144.99,(362),2,https://produto.mercadolivre.com.br/MLB-2820519102-repetidor-wireless-dlink-dap-1325-mesh-rj45-bivolt-_JM,D-Link
+LV-WR09,117.90,(423),4,https://produto.mercadolivre.com.br/MLB-2112064265-repetidor-wifi-4-antenas-amplificador-sinal-lv-wr09-pix-link-_JM,Pix-Link
+Archer,529,(176),23,https://produto.mercadolivre.com.br/MLB-1736551081-roteador-tp-link-wi-fi-6-ax1500-archer-ax10-modelo-novo-_JM,TP-Link
+AC1200,208.99,(521),21,https://produto.mercadolivre.com.br/MLB-1311771118-roteador-wifi-multilaser-4-antenas-ac1200-dual-band-200mw-_JM,Multilaser
+Mi,168,(39),3,https://produto.mercadolivre.com.br/MLB-2146933147-repetidor-wifi-mi-range-extender-ac1200-dual-band-_JM,Xiaomi
+RE163V,142.46,(349),9,https://produto.mercadolivre.com.br/MLB-1548071906-roteador-wireless-multilaser-300mbps-3-antenas-re163v-_JM,Multilaser
+LV-WR09,99.99,(5358),12,https://produto.mercadolivre.com.br/MLB-1229486128-repetidor-wifi-4-antenas-amplificador-de-sinal-pixlink-_JM,Pix-Link
+Deco,598,(1235),2,https://produto.mercadolivre.com.br/MLB-2029293757-roteador-mesh-tp-link-deco-m5-gigabit-dual-band-ac1300-1-un-_JM,TP-Link
+Deco,478.90,(1235),38,https://produto.mercadolivre.com.br/MLB-2080417815-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+Mi,185.90,(39),2,https://produto.mercadolivre.com.br/MLB-2791617212-repetidor-de-sinal-wi-fi-xiaomi-mi-ra75-preto-100v240v-_JM,Xiaomi
+AP 360,595,(146),15,https://produto.mercadolivre.com.br/MLB-1228426111-roteador-access-point-de-teto-ap360-300mbps-poe-intelbras-_JM,Intelbras
+Deco M5,1891.57,(531),14,https://produto.mercadolivre.com.br/MLB-984846702-roteador-tp-link-wi-fi-ac-1300mbps-deco-m5-envio-imediato-_JM,TP-Link
+RF 301K,126.60,(1093),25,https://produto.mercadolivre.com.br/MLB-2152290302-roteador-wireless-intelbras-rf301k-300mbps-5-anos-garantia-_JM,Intelbras
+Archer,208,(5532),95,https://produto.mercadolivre.com.br/MLB-1018123102-roteador-wireless-ac-tplink-archer-c20-dual-band-750mbps-_JM,TP-Link
+Deco,2498,(71),5,https://produto.mercadolivre.com.br/MLB-1845839007-pack-com-2-roteador-mesh-tp-link-deco-x60-wifi6-ax3000-_JM,TP-Link
+LV-WR09,95.90,(423),5,https://produto.mercadolivre.com.br/MLB-2789681020-repetidor-wifi-2800m-4-antenas-amplificador-de-sinal-pixlink-_JM,Pix-Link
+RF 301K,133.89,(858),4,https://produto.mercadolivre.com.br/MLB-2077980516-roteador-wireless-rf-301k-300mbps-24-ghz-intelbras-_JM,Intelbras
+Archer,378,(341),70,https://produto.mercadolivre.com.br/MLB-1305783418-roteador-wireless-wi-fi-tp-link-archer-c5-gigabit-1001000-1200mbps-dual-band-ac1200-_JM,TP-Link
+Deco,848,(648),15,https://produto.mercadolivre.com.br/MLB-1845782386-roteador-mesh-tp-link-deco-ac1200-m4-dual-band-kit-2-pecas-_JM,TP-Link
+WL-5460AP V2,64,(22),557,https://produto.mercadolivre.com.br/MLB-842636501-roteador-wireless-air-live-wl-5460ap-v2-400mw-_JM,AirLive
+Kit Twibi Fast,367,(377),3,https://produto.mercadolivre.com.br/MLB-2737551982-roteador-sistema-wi-fi-intelbras-kit-twibi-fast-2-unidades-_JM,Intelbras
+Archer,398,(4),155,https://produto.mercadolivre.com.br/MLB-1305783424-roteador-wireless-tp-link-archer-c6-wi-fi-1200mbps-gigabit-1001000-dual-band-mu-mimo-ac1200-_JM,TP-Link
+UniFi,1698,(12),6,https://produto.mercadolivre.com.br/MLB-2767401169-access-point-externo-uap-unifi-ac-mesh-pro-poe-dual-band-_JM,Ubiquiti
+Deco,1427,(1235),1,https://produto.mercadolivre.com.br/MLB-2630746886-tp-link-deco-m5-branco-100v240v-3-unidades-_JM,TP-Link
+TL-WR840N,129.90,(2505),14,https://produto.mercadolivre.com.br/MLB-2717562335-roteador-wifi-tp-link-300mps-com-2-antenas-tl-wr840n-branco-_JM,TP-Link
+Roteador Wireless Tp-Link Deco E4,907.89,(97),1,https://produto.mercadolivre.com.br/MLB-2734216267-kit-roteador-wireless-mesh-tp-link-deco-e4-3-unidades-_JM,TP-Link
+TL-WA855RE,168,(1816),2,https://produto.mercadolivre.com.br/MLB-2615701174-repetidor-wifi-tp-link-tl-wa855re-v5-300mbps-24ghz-220v-_JM,TP-Link
+TL-WR829N,104.49,(470),6,https://produto.mercadolivre.com.br/MLB-2014245708-roteador-wireless-wr829n-tp-link-300mbps-2-antenas-5dbi-_JM,TP-Link
+DIR-809,150,(12),2,https://produto.mercadolivre.com.br/MLB-2707306285-roteador-wireless-d-link-ac-750mbps-dir-809-preto-vitrine-_JM,D-Link
+GF 1200,326.27,(175),4,https://produto.mercadolivre.com.br/MLB-2724132551-roteador-wireless-wi-force-1-giga-3-fast-gf-1200-intelbras-_JM,Intelbras
+TL-WA855RE,147.95,(1816),6,https://produto.mercadolivre.com.br/MLB-1313008295-repetidor-de-sinal-sem-fio-tp-link-tl-wa855re-novo-_JM,TP-Link
+LV-WR09,109.90,(5358),3,https://produto.mercadolivre.com.br/MLB-1935948732-amplificador-original-wifi-4-antenas-repetidor-sinal-2800m-_JM,Pix-Link
+DAP-1610,235.90,(144),2,https://produto.mercadolivre.com.br/MLB-2696299632-repetidor-d-link-dap-1610-ac1200-wifi-branco-novo-com-nota-_JM,D-Link
+RE450,592.07,(1152),2,https://produto.mercadolivre.com.br/MLB-1812334385-repetidor-tp-link-wi-fi-ac1750-re450-_JM,TP-Link
+Adaptador Powerline,254.90,(811),4,https://produto.mercadolivre.com.br/MLB-1298632260-tl-wpa4220-extender-300mbps-wifi-av600-tp-link-powerline-_JM,TP-Link
+Deco,567.91,(1235),1,https://produto.mercadolivre.com.br/MLB-1928843881-roteador-tp-link-wireless-ac1300-cx-1-un-deco-m5-_JM,TP-Link
+RE200,208.81,(928),2,https://produto.mercadolivre.com.br/MLB-2616288923-repetidor-de-sinal-wireless-wi-fi-750mbps-tp-link-re-200-_JM,TP-Link
+Deco,499,(1235),1,https://produto.mercadolivre.com.br/MLB-2755606119-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+Twibi Fast,217.89,(214),9,https://produto.mercadolivre.com.br/MLB-2670278618-roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-bivolt-_JM,Intelbras
+EC230-G1,278.86,(85),196,https://produto.mercadolivre.com.br/MLB-1670273127-roteador-tp-link-wireless-ac1350-dual-band-ec230-g1-_JM,TP-Link
+MCS0010,149,(154),6,https://produto.mercadolivre.com.br/MLB-1529875783-extensor-de-area-mercusys-wireless-300mbps-24ghz-mw300re-_JM,Mercusys
+Roteador,632.69,(202),238,https://produto.mercadolivre.com.br/MLB-740024109-roteador-mf253-antena-externa-3g-4g-zte-desbloqueado-rural-_JM,ZTE
+RF 301K,123.49,(1093),1,https://produto.mercadolivre.com.br/MLB-1971614222-roteador-wireless-intelbras-rf301k-300mbps-2-antenas-4750073-_JM,Intelbras
+MW301R,122.40,(1268),3,https://produto.mercadolivre.com.br/MLB-1793261327-roteador-wireless-n-2-antenas-300mbps-mercusys-mw301r-_JM,Mercusys
+RF 301K,159.99,(1093),4,https://produto.mercadolivre.com.br/MLB-1717646270-roteador-wifi-intelbras-rf-301k-300mbps-2-antenas-5-dbi-full-_JM,Intelbras
+Twibi Giga,472.50,(454),17,https://produto.mercadolivre.com.br/MLB-1933987754-twibi-giga-roteador-mesh-intelbras-branco-unitario-_JM,Intelbras
+Space,257.65,(10),1,https://produto.mercadolivre.com.br/MLB-2658206689-roteador-wireless-easymesh-ac1200-1und-gigabit-space-serie-_JM,ZTE
+MW301R,85.84,(1268),3,https://produto.mercadolivre.com.br/MLB-1274234968-roteador-tplink-mercusys-mw301r-300mbps-2-antenas-_JM,Mercusys
+RF 301K,200.71,(858),1,https://produto.mercadolivre.com.br/MLB-2047715041-roteador-wireless-rf-301k-300mbps-nacional-4750073-_JM,Intelbras
+WS5800,1048,(44),6,https://produto.mercadolivre.com.br/MLB-2178697561-roteador-huawei-ws5800-2200mbps-sistema-wi-fi-mesh-pack-2-_JM,Huawei
+Archer,980,(5532),2,https://produto.mercadolivre.com.br/MLB-1988717807-kit-10-roteador-wireless-tp-link-dual-band-ac750-archer-c20-_JM,TP-Link
+LV-WR09,109.90,(5358),17,https://produto.mercadolivre.com.br/MLB-1935948759-amplificador-original-wifi-4-antenas-repetidor-sinal-2800m-_JM,Pix-Link
+TL-WR840N,103.41,(1707),1,https://produto.mercadolivre.com.br/MLB-2673289573-roteador-wireless-tp-link-300n-2-antenas-4-portas-wireles-_JM,TP-Link
+MF25b,299.99,(48),7,https://produto.mercadolivre.com.br/MLB-1777422166-modem-zte-mf-25b-roteador-wifi-saida-tel-3g-seminovo-_JM,ZTE
+AC1750,548,(1152),233,https://produto.mercadolivre.com.br/MLB-1249266271-extensor-de-alcance-wifi-tp-link-re450-1750mbps-ac-dual-band-_JM,TP-Link
+RE163V,157.90,(349),1,https://produto.mercadolivre.com.br/MLB-2059994331-roteador-wireless-branco-wifi-300-mbps-24-ghz-multilaser-_JM,Multilaser
+RE160V,109.70,(324),2,https://produto.mercadolivre.com.br/MLB-1868885801-roteador-multilaser-re160v-wireless-2-antenas-branco-bi-volt-_JM,Multilaser
+MR50G,474.52,(170),1,https://produto.mercadolivre.com.br/MLB-1899455232-roteador-wireless-gigabit-dual-band-245ghz-ac1900-mr50g-_JM,Mercusys
+MR50G,285.07,(170),3,https://produto.mercadolivre.com.br/MLB-2603582823-roteador-mercusys-wireless-gigabit-dual-band-ac1900-mr50g-_JM,Mercusys
+Mini Repetidor Router,56.90,(4),87,https://produto.mercadolivre.com.br/MLB-1637380996-mini-repetidor-amplificador-de-sinal-wifi-router-extender-_JM,DAHORA
+UniFi,4145,(301),2,https://produto.mercadolivre.com.br/MLB-2642015710-ubnt-uf-wifi-br-ufiber-onu-gpon-wifi-4p-gigabit-apc-kit10pcs-_JM,Ubiquiti
+Archer,248,(6703),1,https://produto.mercadolivre.com.br/MLB-2627731124-roteador-tp-link-archer-c60-ac1350-wireless-dual-band-branco-_JM,TP-Link
+Space,717,(17),1,https://produto.mercadolivre.com.br/MLB-2060987488-access-point-roteador-ac1200-ate-32-equipamentos-conectados-_JM,ZTE
+IWR 3000N,1000,(752),12,https://produto.mercadolivre.com.br/MLB-1488004405-roteador-wifi-ipv6-iwr-3000n-usado-sem-fonte-25-unidade-_JM,Intelbras
+ACtion,1180,(1809),1,https://produto.mercadolivre.com.br/MLB-1988732479-kit-10-roteador-intelbras-wireless-action-rf-1200-dual-band-_JM,Intelbras
+Mesh 2-Pack WS5800,890.91,(19),9,https://produto.mercadolivre.com.br/MLB-2039888528-roteador-huawei-wi-fi-mesh-2-pack-ws5800-_JM,Huawei
+LV-WR09,109.90,(423),23,https://produto.mercadolivre.com.br/MLB-2193239669-repetidor-wifi-2800m-4-antenas-pixlink-amplificador-500mbps-_JM,Pix-Link
+ACtion,278.40,(1809),9,https://produto.mercadolivre.com.br/MLB-1811708453-roteador-wireless-smart-dual-band-action-rf-1200-intelbras-_JM,Intelbras
+Cosmo,329.90,(413),3,https://produto.mercadolivre.com.br/MLB-2040294302-roteador-mesh-cosmo-ac1200-2-pecas-dual-band-_JM,Multilaser
+Archer,398,(8),106,https://produto.mercadolivre.com.br/MLB-1305789980-roteador-wireless-tp-link-archer-c6-wi-fi-1200mbps-gigabit-1001000-dual-band-mu-mimo-ac1200-_JM,TP-Link
+RF 301K,159.99,(1093),12,https://produto.mercadolivre.com.br/MLB-1784527459-roteador-wifi-intelbras-rf-301k-300mbps-2-antenas-5-dbi-full-_JM,Intelbras
+Archer,430,(5532),8,https://produto.mercadolivre.com.br/MLB-2147343645-roteador-kit-com-05-tp-link-archer-c20-3-antenas-usados-_JM,TP-Link
+DIR-842,229,(816),17,https://produto.mercadolivre.com.br/MLB-2799194501-roteador-wi-fi-ac1200-tr-069-gigabit-ethernet-dir-842-_JM,D-Link
+IWR 1000N,123.45,(49),4,https://produto.mercadolivre.com.br/MLB-1898032425-roteador-repetidor-wi-fi-150-mbps-iwr-1000n-intelbras-_JM,Intelbras
+Omada,295.91,(49),321,https://produto.mercadolivre.com.br/MLB-911338584-access-point-tp-link-eap115-n300-wireless-montavel-em-teto-_JM,TP-Link
+3.75G,633.45,(202),545,https://produto.mercadolivre.com.br/MLB-997649905-modem-roteador-mf253-300mbps-chip-antena-externa-rural-_JM,ZTE
+TL-WA850RE,281.89,(8811),4,https://produto.mercadolivre.com.br/MLB-1252189818-repedidor-tl-wa850re-sinal-wifi-tplink-wireless-repetidor-_JM,TP-Link
+Deco,1847.12,(27),5,https://produto.mercadolivre.com.br/MLB-2135869592-roteador-tp-link-deco-m9-plus-2un-mesh-ac2200-tri-band-v2-_JM,TP-Link
+RE160V,78.99,(263),80,https://produto.mercadolivre.com.br/MLB-1337224850-roteador-wireless-300mpbs-24ghz-2-antenas-5dbi-multilaser-_JM,Multilaser
+Omada,322.90,(48),3,https://produto.mercadolivre.com.br/MLB-1865621999-access-point-tp-link-wi-fi-n300-mbps-poe-check-in-eap110-_JM,TP-Link
+DIR-819,246.17,(903),2,https://produto.mercadolivre.com.br/MLB-2638779504-roteador-d-link-wireless-ac-750mbps-dir-819-_JM,D-Link
+Archer,848,(185),20,https://produto.mercadolivre.com.br/MLB-1867609134-roteador-ax50-tp-link-archer-wi-fi-6-gigabit-3000mbps-_JM,TP-Link
+RE450,530,(1152),8,https://produto.mercadolivre.com.br/MLB-1678240969-repetidor-expansor-tp-link-wi-fi-network-1750mbps-re450-_JM,TP-Link
+TL-MR3420,195,(47),28,https://produto.mercadolivre.com.br/MLB-835971317-tl-mr3420-tp-link-wi-fi-sfio-300mb-roteador-2ant-3g4g-1939-_JM,TP-Link
+Auranet EAP,1740.69,(13),1,https://produto.mercadolivre.com.br/MLB-1891204482-access-point-wireless-gigabit-mu-mimo-montavel-em-teto-_JM,TP-Link
+Deco,1575.72,(449),2,https://produto.mercadolivre.com.br/MLB-1631947857-roteador-tp-link-deco-e4-wireless-ac1200-sistema-mesh-3-pack-_JM,TP-Link
+LV-WR09,105.60,(5358),26,https://produto.mercadolivre.com.br/MLB-1798887344-roteador-repetidor-expansor-sinal-wifi-300mbps-4-antenas-_JM,Pix-Link
+Mi,99.90,(1074),3,https://produto.mercadolivre.com.br/MLB-2096746806-repetidor-xiaomi-mi-wi-fi-range-extender-pro-preto-100v240v-_JM,Xiaomi
+Kit Twibi Fast,639.90,(377),1,https://produto.mercadolivre.com.br/MLB-2606913430-roteador-wi-fi-mesh-intelbras-kit-twibi-fast-110v220v-2-_JM,Intelbras
+Archer,297.02,(3443),1,https://produto.mercadolivre.com.br/MLB-1957484929-roteador-tp-link-wifi-dual-band-ac1350-archer-c60-5-antenas-_JM,TP-Link
+Mi,92.99,(1074),117,https://produto.mercadolivre.com.br/MLB-1829367372-repetidor-xiaomi-mi-pro-300m-preto-100v240v-_JM,Xiaomi
+300 mbps,92.60,(4),79,https://produto.mercadolivre.com.br/MLB-1171537330-repetidor-roteador-de-sinal-wifi-300-mbps-pronta-entrega-_JM,T90
+WAP54G,93.90,(4),8,https://produto.mercadolivre.com.br/MLB-2029073774-linksys-wap54g-wireless-g-access-point-24ghz-com-nfe-_JM,Linksys
+RF 301K,150.90,(1093),20,https://produto.mercadolivre.com.br/MLB-1697853653-roteador-repetidor-intelbras-rf-301k-wireless-300mbps-2-ant-_JM,Intelbras
+AC12G,218,(671),10,https://produto.mercadolivre.com.br/MLB-2607922424-roteador-mercusys-ac12g-v1-ac1200-wireless-1167mbps-245ghz-_JM,Mercusys
+Deco,1480,(1235),8,https://produto.mercadolivre.com.br/MLB-1819389132-roteador-tp-link-deco-m5-3-pack-branco-100v240v-3-unid-_JM,TP-Link
+MR50G,306.18,(170),2,https://produto.mercadolivre.com.br/MLB-2603595523-roteador-mercusys-wireless-gigabit-dual-band-ac1900-mr50g-_JM,Mercusys
+Twibi Fast,625,(210),1,https://produto.mercadolivre.com.br/MLB-2198043701-kit-roteador-intelbras-wi-fi-twibi-fast-mesh-dual-band-2-un-_JM,Intelbras
+Deco M5,1538.65,(531),66,https://produto.mercadolivre.com.br/MLB-1103157449-roteador-repetidor-tp-link-deco-m5-ac1300-dual-band-3-pack-_JM,TP-Link
+Claro VIVO TIM OI,379,(5),125,https://produto.mercadolivre.com.br/MLB-1351823916-gateway-roteador-b660-wifi-3g-entrada-antena-melhor-q-b260a-_JM,Huawei
+Deco,1477.35,(1235),46,https://produto.mercadolivre.com.br/MLB-2004872609-roteador-mesh-tp-link-deco-m5-branco-3-unidades-_JM,TP-Link
+Omada,1292.79,(20),1,https://produto.mercadolivre.com.br/MLB-1932653633-access-point-externo-gigabit-mu-mimo-wireless-ac1200-24gbz-_JM,TP-Link
+TL-WPA4220,538,(811),13,https://produto.mercadolivre.com.br/MLB-2022819766-extensor-wireless-powerline-tp-link-tl-wpa4220t-kit-3pcs-_JM,TP-Link
+Archer,277,(8),2,https://produto.mercadolivre.com.br/MLB-1971969483-roteador-tp-link-archer-c50-wireless-ac1200-dual-band-_JM,TP-Link
+Deco,150.59,(108),2,https://produto.mercadolivre.com.br/MLB-2731710352-fios-de-plugue-de-montagem-em-parede-suporte-de-sistema-bagu-_JM,Generic
+Deco,1375.45,(108),4,https://produto.mercadolivre.com.br/MLB-2607045176-roteador-tp-link-wireless-ac1300-cx-3-un-deco-m5-_JM,TP-Link
+W4-300F,166.90,(25),4,https://produto.mercadolivre.com.br/MLB-2045723004-w4-300f-roteador-fast-4-portas-ideal-ate-70-megas-intelbras-_JM,Intelbras
+Kit Twibi Fast,495,(377),12,https://produto.mercadolivre.com.br/MLB-1875819164-roteador-twibi-wifi-mesh-fast-kit-2-unidades-original-_JM,Intelbras
+Mi,119.50,(1074),103,https://produto.mercadolivre.com.br/MLB-1923447479-expansor-de-wifi-sem-fio-xiaomi-envio-imediato-cnf-_JM,Xiaomi
+AX3 Quad-Core,455.84,(253),7,https://produto.mercadolivre.com.br/MLB-2630428144-roteador-huawei-ax3-ws7200-quad-core-4-antenas-wi-fi-6-_JM,Huawei
+Repetidor Intelbras Iwe 3001 Amplia Sinal Wifi,319.02,(276),5,https://produto.mercadolivre.com.br/MLB-2688570309-repetidor-intelbras-iwe-3001-amplia-sinal-wifi-_JM,Intelbras
+Twibi,465,(312),1,https://produto.mercadolivre.com.br/MLB-2068524516-roteador-wireless-mesh-twibi-giga-dual-band-5ghz-intelbras-_JM,Intelbras
+LV-WR09,119.99,(5358),86,https://produto.mercadolivre.com.br/MLB-1390830276-repetidor-amplificador-de-sinal-wifi-4-antenas-2800m-pixlink-_JM,Pix-Link
+LV-WR09,109.99,(5358),4,https://produto.mercadolivre.com.br/MLB-2134981913-repetidor-wifi-mini-roteador-wireless-4-antenas-amplificador-_JM,Pix-Link
+Deco,379,(648),45,https://produto.mercadolivre.com.br/MLB-2013075531-tp-link-deco-m4-wi-fi-mesh-2450ghz-novo-sem-caixa-nf-_JM,TP-Link
+TL-WA850RE,180.92,(8811),91,https://produto.mercadolivre.com.br/MLB-1353400472-repetidor-sinal-wireless-300mbps-tp-link-tl-wa850re-tomada-_JM,TP-Link
+TL-WR829N,140.51,(4),24,https://produto.mercadolivre.com.br/MLB-1638777715-roteador-wireless-300mbps-tp-link-2-antenas-wifi-4-em-1-60-_JM,TP-Link
+Omada EAP,1093,(30),1,https://produto.mercadolivre.com.br/MLB-1694493273-access-point-wireless-gigabit-ac1750-poe-eap245-omada-tp-lin-_JM,TP-Link
+TL-WR840N,147.55,(2505),1,https://produto.mercadolivre.com.br/MLB-1145096995-roteador-wireless-tp-link-tl-wr840n-300mbps-2-antenas-fixas-_JM,TP-Link
+MW6,706.90,(14),3,https://produto.mercadolivre.com.br/MLB-2601931505-roteador-mesh-tenda-mw6-1200mbps-dual-band-com-2-unidades-_JM,Tenda
+Micro SD WD Purple,148.72,(1093),7,https://produto.mercadolivre.com.br/MLB-1811673203-roteador-wireless-24-ghz-300-mbps-rf-301-k-intelbras-_JM,Intelbras
+Archer,1079,(185),1,https://produto.mercadolivre.com.br/MLB-1711620708-roteador-wireless-ax3000-wifi-6-tp-link-archer-ax50-gigabit-_JM,TP-Link
+RE505X,879.01,(30),2,https://produto.mercadolivre.com.br/MLB-1896816757-repetidor-de-sinal-tp-link-re505x-ax1500-wi-fi-6-onemesh-_JM,TP-Link
+Roteador,587.70,(26),411,https://produto.mercadolivre.com.br/MLB-898648181-dwr922-d-link-modem-roteador-wifi-3g-4g-antena-externa-rural-_JM,D-Link
+W5-1200F,207.90,(175),7,https://produto.mercadolivre.com.br/MLB-2138573955-roteador-wireless-wi-force-intelbras-w5-1200f-_JM,Intelbras
+INTELBRAS,1323.56,(7),1,https://produto.mercadolivre.com.br/MLB-1719890888-roteador-wireless-ap1750-ac-1750mbps-intelbras-bivolt-_JM,Intelbras
+Repetidor,167.99,(4),114,https://produto.mercadolivre.com.br/MLB-701984295-amplificador-de-sinal-wifi-rede-sem-fio-frete-gratis-todo-br-_JM,Wei Tus
+Mi,222.37,(39),5,https://produto.mercadolivre.com.br/MLB-2725779991-repetidor-wifi-xiaomi-range-extender-mi-ra75-ac1200-mbps-_JM,Xiaomi
+MR,174.63,(20),46,https://produto.mercadolivre.com.br/MLB-1767817195-mini-roteador-wi-fi-portatil-modem-3g4g-tp-link-tl-mr3020-_JM,TP-Link
+W4-300F,149.90,(25),6,https://produto.mercadolivre.com.br/MLB-2073458193-roteador-wireless-wi-force-intelbras-w4-300f-_JM,Intelbras
+TL-WR840N,148,(2505),23,https://produto.mercadolivre.com.br/MLB-1845867547-roteador-wireless-wi-fi-tp-link-wr840n-300mbps-2-antenas-_JM,TP-Link
+UniFi,1650,(384),1,https://produto.mercadolivre.com.br/MLB-2792637660-ubnt-u6-lr-unifi-ap-ac-4x4-wifi6-245ghz-3gbps-longo-alcan-_JM,Ubiquiti
+UniFi,950,(4),1,https://produto.mercadolivre.com.br/MLB-2792589655-ubnt-u6-lite-unifi-ap-ac-2x2-wifi-6-2450ghz-15gbps-_JM,Ubiquiti
+AmpliFi,275.40,(244),225,https://produto.mercadolivre.com.br/MLB-751398166-roteador-wireless-ac1200-dual-band-router-d-link-_JM,D-Link
+AP 360,639.90,(146),5,https://produto.mercadolivre.com.br/MLB-1334602095-access-point-corporativo-intelbras-ap360-sem-fio-wisefi-_JM,Intelbras
+Deco,1150,(648),4,https://produto.mercadolivre.com.br/MLB-2040996339-roteador-wi-fi-mesh-tp-link-deco-m4-100v240v-3-unidades-_JM,TP-Link
+Adaptador Powerline,248.90,(811),3,https://produto.mercadolivre.com.br/MLB-2060589698-tp-link-powerline-extender-300mbps-wifi-av600-tl-wpa4220-_JM,TP-Link
+Archer,451.90,(543),4,https://produto.mercadolivre.com.br/MLB-1825833869-roteador-wireless-gigabit-ac-1900mbps-c80-dual-band-tp-link-_JM,TP-Link
+UniFi,1498,(301),8,https://produto.mercadolivre.com.br/MLB-2698132574-access-point-ubiquiti-unifi-wireless-uap-ac-pro-porta-poe-_JM,Ubiquiti
+Repetidor Wireless-N,59.11,(27),383,https://produto.mercadolivre.com.br/MLB-731789768-repetidor-amplificador-expansor-sinal-wifi-roteador-300mbps-_JM,Importado
+EXO,459,(69),1,https://produto.mercadolivre.com.br/MLB-2816729395-sistema-wi-fi-mesh-roteador-d-link-exo-dir-3040-100v240v-_JM,D-Link
+Deco,846.94,(21),6,https://produto.mercadolivre.com.br/MLB-1639858191-roteador-wireless-deco-m4-ac1200-tp-link-2-uni-decom4-_JM,TP-Link
+ACtion,189.90,(1501),5,https://produto.mercadolivre.com.br/MLB-2086921846-roteador-intelbras-wireless-1200mbps-preto-rf1200-_JM,Intelbras
+Mi,99.99,(1074),3,https://produto.mercadolivre.com.br/MLB-2682859702-repetidor-sinal-wi-fi-xiaomi-mi-ran-extender-pro-r03-bi-volt-_JM,Xiaomi
+LV-WR09,122.50,(423),1,https://produto.mercadolivre.com.br/MLB-1949837818-repetidor-amplificador-wifi-wireless-4-antenas-300mb-24ghz-_JM,Pix-Link
+TL-WR840N,159.90,(2505),4,https://produto.mercadolivre.com.br/MLB-1002891427-roteador-tp-link-tl-wr-840n-wifi-2-antenas-wireless-300mbps-_JM,TP-Link
+1200mbps,106,(9),158,https://produto.mercadolivre.com.br/MLB-1591910815-repetidor-sinal-roteador-wi-fi-wireless-1200mbps-2-antenas-_JM,Wireless N
+Deco,819,(58),1,https://produto.mercadolivre.com.br/MLB-2691820279-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-x20-_JM,TP-Link
+ACtion,347.90,(2204),1,https://produto.mercadolivre.com.br/MLB-2052759357-rg-1200-roteador-wi-fi-5-dual-band-com-portas-giga-intelbras-_JM,Intelbras
+Adaptador powerline,259.80,(811),9,https://produto.mercadolivre.com.br/MLB-1298626528-tl-wpa4220-tp-link-powerline-extender-300mbps-wifi-av600-_JM,TP-Link
+3G,669,(7),102,https://produto.mercadolivre.com.br/MLB-1963870444-kit-internet-rural-4g-3g-aquario-roteador-wifi-cabo-10m-_JM,Aquário
+RE160V,112.95,(324),1,https://produto.mercadolivre.com.br/MLB-1869027625-roteador-multilaser-re160v-wireless-2-antenas-branco-bi-volt-_JM,Multilaser
+Twibi Fast,253.97,(339),3,https://produto.mercadolivre.com.br/MLB-2772611230-modulo-roteador-mesh-twibi-fast-intelbras-bivolt-branco-_JM,Intelbras
+Wireless N,190,(211),1673,https://www.mercadolivre.com.br/roteador-d-link-wireless-n-dir-815-preto/p/MLB7911372?pdp_filters=category:MLB5867,D-Link
+MW3,467.90,(164),3,https://produto.mercadolivre.com.br/MLB-1351601484-roteador-mesh-mw3-kit-com-2-pecas-tenda-_JM,Tenda
+Repitidor 4 Antenas,84.99,(5358),4,https://produto.mercadolivre.com.br/MLB-2730985427-repetidor-de-sinal-wifi-amplificador-sinal-internet-wireless-_JM,Pix-Link
+RE018,172.90,(448),1,https://produto.mercadolivre.com.br/MLB-2221411046-roteador-multilaser-wifi-300mpbs-4-antenas-re018m-_JM,Multilaser
+WIFI Repetidor,62,(34),868,https://produto.mercadolivre.com.br/MLB-1421573337-roteador-repetidor-wireless-n-sinal-wifi-repeater-300mbps-_JM,Luuk Young
+Archer,303,(2417),10,https://produto.mercadolivre.com.br/MLB-1955973273-roteador-tp-link-archer-c6-wireless-gigabit-mu-mimo-ac1200-_JM,TP-Link
+Archer,519.25,(11),1,https://produto.mercadolivre.com.br/MLB-2058575528-roteador-wireles-tp-link-ax1500-gigabit-4-antenas-arche-ax10-_JM,TP-Link
+TL-MR3020,228,(149),108,https://produto.mercadolivre.com.br/MLB-1183684212-mini-roteador-wi-fi-portatil-3g4g-tp-link-tl-mr3020-300mbps-_JM,TP-Link
+Archer,309.90,(2417),3,https://produto.mercadolivre.com.br/MLB-2709673469-roteador-tp-link-archer-c6-wireless-gigabit-mu-mimo-ac1200-_JM,TP-Link
+MF25,284.99,(48),15,https://produto.mercadolivre.com.br/MLB-1515455529-modem-roteador-wif-3g-zte-mf25b-desbloq-homologado-anatel-_JM,ZTE
+WS5800,948,(44),12,https://produto.mercadolivre.com.br/MLB-2178771670-roteador-huawei-ws5800-ac2200-wi-fi-mesh-triband-kit-com-2-_JM,Huawei
+Duas Antenas,97.76,(6),70,https://produto.mercadolivre.com.br/MLB-1626063008-repetidor-sinal-wifi-duas-antenas-1200m-24-ghz-prontentrega-_JM,New
+Deco,39.90,(8),305,https://produto.mercadolivre.com.br/MLB-1789949042-kit-3-suportes-de-parede-para-roteador-tplink-deco-m5-branco-_JM,TP-Link
+MW3,900,(19),1,https://produto.mercadolivre.com.br/MLB-1948467028-roteador-wireless-mesh-ac-1200-enterprise-ew9ep9-x-2-tenda-_JM,Tenda
+TL-WA850RE,182.50,(8811),11,https://produto.mercadolivre.com.br/MLB-1480771994-repetidor-wifi-wireless-tp-link-300mbps-tl-wa850re-24-ghz-_JM,TP-Link
+C54,289,(44),3,https://produto.mercadolivre.com.br/MLB-1991109960-roteador-tp-link-archer-c54-ac1200-wireless-dual-band-24-5g-_JM,TP-Link
+MW300RE,149.89,(192),1,https://produto.mercadolivre.com.br/MLB-1827182611-repetidor-wireless-mercusys-mw300re-300mbps-3-antenas-_JM,Mercusys
+Repetidor Roteador WiFi repetidor de sinal repetidor wifi multiplicador de sinal repetidor wifi repetidor de internet multiplicador de sinal repetidor 4 antenas,128.90,(423),94,https://produto.mercadolivre.com.br/MLB-1811706727-repetidor-roteador-4-antenas-amplificador-de-sinal-500mbps-_JM,Pix-Link
+Kit Twibi Giga+,789,(412),7,https://produto.mercadolivre.com.br/MLB-1964354217-kit-2-roteador-wi-fi-intelbras-mesh-ac1200-mbps-twibi-giga-_JM,Intelbras
+COVR-1103,748,(30),3,https://produto.mercadolivre.com.br/MLB-2787233874-sistema-wi-fi-mesh-d-link-covr-1103-branco-100v240v-3-unid-_JM,D-Link
+Archer,2889,(27),2,https://produto.mercadolivre.com.br/MLB-1081361900-roteador-tp-link-archer-c5400-ac5400-tri-band-gigabit-v20-_JM,TP-Link
+LV-WR09,129.99,(5358),4,https://produto.mercadolivre.com.br/MLB-1712427470-repetidor-wifi-4-antenas-amplificar-o-sinal-2800m-pixlink-_JM,Pix-Link
+TL-WR840N,138,(2505),38,https://produto.mercadolivre.com.br/MLB-1845867239-roteador-wifi-tp-link-wr840n-300mbps-c-funco-repetidor-_JM,TP-Link
+LV-WR09,166.30,(423),4,https://produto.mercadolivre.com.br/MLB-1766541176-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-pixlink-_JM,Pix-Link
+Archer,306.15,(3443),2,https://produto.mercadolivre.com.br/MLB-2650934516-roteador-tp-link-wifi-dual-band-ac1350-archer-c60-5-antenas-_JM,TP-Link
+RF 301K,123.49,(1093),3,https://produto.mercadolivre.com.br/MLB-1971607085-roteador-intelbras-wireless-rf301k-300mbps-2-antenas-_JM,Intelbras
+LV-WR09,119,(423),72,https://produto.mercadolivre.com.br/MLB-1726037302-repetidor-wi-fi-wireless-2800-mts-4-antenas--_JM,Pix-Link
+TL-WR840N,128.24,(2505),6,https://produto.mercadolivre.com.br/MLB-1929157949-roteador-tp-link-2-antenas-wireless-300mbps-tl-wr840n-w-_JM,TP-Link
+Archer,251.90,(6703),297,https://produto.mercadolivre.com.br/MLB-1725076121-roteador-wireless-tp-link-archer-c60-ac1350-867mbps-_JM,TP-Link
+RF 301K,113.99,(1093),8,https://produto.mercadolivre.com.br/MLB-1971597251-roteador-intelbras-wireless-rf301k-300mbps-5-anos-garantia-_JM,Intelbras
+Deco,469,(1235),4,https://produto.mercadolivre.com.br/MLB-2220237844-roteador-tp-link-deco-m5-1-pack-wifi-systen-bivolt-branco-_JM,TP-Link
+Deco,869,(58),1,https://produto.mercadolivre.com.br/MLB-2683484723-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-x20-_JM,TP-Link
+AC10,299,(252),2,https://produto.mercadolivre.com.br/MLB-2709580596-roteador-wireless-mu-mimo-ac1200-gigabit-dual-band-wifi-ac10-_JM,Tenda
+TL-MR3020,203.90,(149),1,https://produto.mercadolivre.com.br/MLB-2060596153-mini-roteador-3g-4g-wireless-portatil-tp-link-tl-mr3020-wifi-_JM,TP-Link
+Kit Twibi Giga,819.35,(620),7,https://produto.mercadolivre.com.br/MLB-1425848735-conjunto-roteador-wireless-mesh-twibi-giga-intelbras-4750069-_JM,Intelbras
+DRA-1360,277.19,(9),6,https://produto.mercadolivre.com.br/MLB-2684241957-repetidor-de-wifi-d-link-dra-1360-ultra-rapido-_JM,D-Link
+B260A,449,(16),641,https://produto.mercadolivre.com.br/MLB-1149141911-modem-roteador-gateway-b260a-wifi-3g-chip-ant-externa-rural-_JM,Huawei
+,1150,(21),5,https://produto.mercadolivre.com.br/MLB-2220341759-roteadortp-link-deco-m4-v1-branco-e-preto-100v240v-3-pack-_JM,
+TL-WA855RE,224.90,(1816),14,https://produto.mercadolivre.com.br/MLB-1477790785-repetidor-extensor-wi-fi-2-ant-tp-link-tl-wa-855re-300mbps-_JM,TP-Link
+WS5800,948,(44),2,https://produto.mercadolivre.com.br/MLB-2178766152-roteador-wifi-mesh-huawei-ws5800-triband-2200mbps-2-unidades-_JM,Huawei
+Série 1000,319.35,(101),3,https://produto.mercadolivre.com.br/MLB-1924100615-roteador-wi-fi-dual-band-wan-giga-lan-fast-gf-1200-intelbras-_JM,Intelbras
+Deco,1699,(1235),2,https://produto.mercadolivre.com.br/MLB-2607091954-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-3unidades-_JM,TP-Link
+UniFi AC,1049,(4),5,https://produto.mercadolivre.com.br/MLB-1511736593-ubiquiti-ponto-acesso-wireless-unifi-ac-lite-alcance-122m-_JM,Ubiquiti
+RE450,503.70,(1152),4,https://produto.mercadolivre.com.br/MLB-2029060048-repetidor-expansor-tp-link-wi-fi-network-re450-1750mbps-_JM,TP-Link
+RE200,223,(102),8,https://produto.mercadolivre.com.br/MLB-1807140588-repetidor-de-sinal-wi-fi-tplink-ac750-re200-lacrado-premium-_JM,TP-Link
+TL-WA850RE,298.49,(8811),94,https://produto.mercadolivre.com.br/MLB-1251181376-repetidor-sinal-internet-wifi-extensor-replicador-wireless-_JM,TP-Link
+Twibi Fast,258,(339),48,https://produto.mercadolivre.com.br/MLB-1875786432-roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-bivolt-_JM,Intelbras
+300mbps,96.99,(10),56,https://produto.mercadolivre.com.br/MLB-1955039254-wifi-sinal-amplificador-300m-wireless-n-_JM,Repeater
+TL-WA850RE,189,(8811),5,https://produto.mercadolivre.com.br/MLB-1879778935-repetidor-amplificador-sinal-300mbps-wireless-frete-gratis-_JM,TP-Link
+WS5800,1424.25,(6),6,https://produto.mercadolivre.com.br/MLB-1874137662-sistema-mesh-roteador-wifi-huawei-quad-core-com-3-packs-_JM,Huawei
+Mi,108.97,(1074),22,https://produto.mercadolivre.com.br/MLB-1772641844-repetidor-xiaomi-mi-pro-300m-preto-1-unidade-_JM,Xiaomi
+TL-MR3020,199,(149),1,https://produto.mercadolivre.com.br/MLB-755653515-roteador-portatil-wireless-n-3g-375g-tl-mr3020-tp-link-_JM,TP-Link
+Roteador,116.50,(786),2,https://produto.mercadolivre.com.br/MLB-2011830825-roteador-wi-fi-300mbps-mercusys-mw301r-c-rede-de-convidados-_JM,Mercusys
+LV-WR08,98.90,(240),7,https://produto.mercadolivre.com.br/MLB-1690086308-roteador-pixlink-4-antenas-wifi-amplificador-de-sinal-2800m-_JM,Pix-Link
+ACtion,300,(175),2,https://produto.mercadolivre.com.br/MLB-1727857212-roteador-wi-fi-intelbras-ac-dual-band-gf-1200-5ghz-1p-wan-_JM,Intelbras
+RE305,316.20,(738),67,https://produto.mercadolivre.com.br/MLB-1892091628-repetidor-de-sinal-wi-fi-tp-link-re305-ac1200-com-2-antenas-_JM,TP-Link
+LV-WR09,109.90,(5358),13,https://produto.mercadolivre.com.br/MLB-1935948741-amplificador-original-wifi-4-antenas-repetidor-sinal-2800m-_JM,Pix-Link
+LV-WR09,99.34,(5358),190,https://produto.mercadolivre.com.br/MLB-1621549774-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-pixlink-_JM,Pix-Link
+TL-WPA4220,579,(811),2,https://produto.mercadolivre.com.br/MLB-2725305141-extensor-wi-fi-power-line-tp-link-tl-wpa4220-t-kit-pack-3un-_JM,TP-Link
+Deco,838.95,(21),1,https://produto.mercadolivre.com.br/MLB-1639867010-roteador-wireless-deco-m4-ac1200-tp-link-2-uni-decom4-_JM,TP-Link
+Archer,679.21,(176),1,https://produto.mercadolivre.com.br/MLB-1648155456-roteador-tp-link-archer-ax10-ax1500-wi-fi-6-55ghz-120m-_JM,TP-Link
+Deco,1399,(108),1,https://produto.mercadolivre.com.br/MLB-2787075504-roteador-mesh-wi-fi-tp-link-deco-m5-100v240v-3-unidades-_JM,TP-Link
+Deco,400,(648),1,https://produto.mercadolivre.com.br/MLB-2678666111-roteador-sistema-wi-fi-mesh-tp-link-deco-m4-100v240v-_JM,TP-Link
+DWR-922B,667.45,(122),92,https://produto.mercadolivre.com.br/MLB-831871506-roteador-wifi-dwr-922b-3g-4g-para-chip-e-antena-rural-_JM,D-Link
+Twibi Fast,219.90,(214),1,https://produto.mercadolivre.com.br/MLB-2670298498-roteador-wi-fi-sistema-twibi-fast-intelbras-_JM,Intelbras
+Space,367,(17),5,https://produto.mercadolivre.com.br/MLB-2060984609-roteador-zte-wifi-mesh-ac1200-gigabit-4-antenas-smart-band-_JM,ZTE
+RE018,94.90,(521),7,https://produto.mercadolivre.com.br/MLB-2636191006-roteador-24ghz-5ghz-wireless-1200mbps-4-antenas-mostruario-_JM,Multilaser
+AC10,247,(252),4,https://produto.mercadolivre.com.br/MLB-2709574134-roteador-wireless-mu-mimo-ac1200-gigabit-dual-band-wifi-ac10-_JM,Tenda
+300mbps,58.99,(51),1804,https://produto.mercadolivre.com.br/MLB-1815292467-roteador-repetidor-wireless-n-sinal-wifi-repeater-300mbps-_JM,Import
+TL-WA855RE,147,(1816),1,https://produto.mercadolivre.com.br/MLB-2767773470-repetidor-de-sinal-wi-fi-wireless-n-300mb-tl-wa855re-tp-link-_JM,TP-Link
+TL-WA850RE,198.70,(8811),1,https://produto.mercadolivre.com.br/MLB-2730903473-repetidor-de-sinal-wireless-wi-fi-300mbps-tp-link-ti-wa850re-_JM,TP-Link
+TL-WPA4220KIT,595.57,(16),1,https://produto.mercadolivre.com.br/MLB-1755773795-tp-link-extensor-wifi-300mbps-powerline-av600-tl-wpa4220kit-_JM,TP-Link
+Kit Twibi Fast,559.61,(377),1,https://produto.mercadolivre.com.br/MLB-2185540771-kit-2-roteador-wi-fi-mesh-intelbras-twibi-fast-branco-bivolt-_JM,Intelbras
+TL-WPA4220,597,(811),2,https://produto.mercadolivre.com.br/MLB-2733889212-extensor-wi-fi-power-line-tp-link-tl-wpa4220-t-kit-pack-3uni-_JM,TP-Link
+Archer,302,(2417),3,https://produto.mercadolivre.com.br/MLB-1975740896-roteador-tp-link-archer-c6-ac1200-wireless-gigabite-dual-nf-_JM,TP-Link
+DWR922B,562.92,(122),72,https://produto.mercadolivre.com.br/MLB-1199978958-roteador-modem-dwr-922b-3g-4g-para-uso-com-chip-antena-rural-_JM,D-Link
+WifiRepeater,50.16,(67),1332,https://produto.mercadolivre.com.br/MLB-726479915-repetidor-de-sinal-expansor-wifi-wi-fi-wireless-roteador-t25-_JM,WifiRepeater
+Deco,659.99,(21),2,https://produto.mercadolivre.com.br/MLB-2737299287-access-point-roteador-wi-fi-mesh-tp-link-deco-m4-2-unidades-_JM,TP-Link
+LV-WR09,118.90,(5358),14,https://produto.mercadolivre.com.br/MLB-2632798484-repetidor-wifi-4-antenas-amplificador-alta-velocidade-_JM,PIX LINK
+WS5800,834.24,(44),2,https://produto.mercadolivre.com.br/MLB-2630415676-roteador-mesh-wi-fi-huawei-ws5800-ac2200-triband-2-pecas-_JM,Huawei
+TL-WA850RE,167,(4936),1,https://produto.mercadolivre.com.br/MLB-1976939932-repetidor-tp-link-tl-wa850re-300mbps-wi-fi-wireless-_JM,TP-Link
+LV-WR09,109.90,(5358),7,https://produto.mercadolivre.com.br/MLB-1935937170-amplificador-sinal-2800m-original-repetidor-wifi-4-antenas-_JM,Pix-Link
+Kit Twibi Giga+,1025.90,(412),3,https://produto.mercadolivre.com.br/MLB-1988961295-conjunto-roteador-wi-fi-5-mesh-ac-1200-twibi-giga-intelbras-_JM,Intelbras
+LV-WR09,119,(5358),34,https://produto.mercadolivre.com.br/MLB-1323163728-repetidor-amplificador-de-sinal-wifi-4-antenas-pix-link-novo-_JM,Pix-Link
+3300m,219,(56),697,https://produto.mercadolivre.com.br/MLB-695933144-repetidor-3300m-antena-expansor-wifi-wireless-amplificador-_JM,UNIVERSAL5
+RE305,378,(738),1,https://produto.mercadolivre.com.br/MLB-2707214546-repetidor-de-sinal-rede-wi-fi-ac1200-dual-band-tp-link-re305-_JM,TP-Link
+LV-WR09,109.90,(5358),48,https://produto.mercadolivre.com.br/MLB-1935945781-amplificador-sinal-2800m-original-repetidor-wifi-4-antenas-_JM,Pix-Link
+Kit Twibi Fast,489,(377),1,https://produto.mercadolivre.com.br/MLB-2018708658-roteadormesh-intelbras-kit-twibi-fast-110v220v-2-unidades-_JM,Intelbras
+Mi,109.12,(1074),22,https://produto.mercadolivre.com.br/MLB-1918247752-repetidor-xiaomi-mi-pro-300m-preto-100v240v-_JM,Xiaomi
+TL-WA850RE,168.27,(8811),1288,https://produto.mercadolivre.com.br/MLB-1353393054-repetidor-sinal-wi-fi-300mbps-tplink-tl-wa850re-nota-fiscal-_JM,TP-Link
+Wireless N150,189,(7),1,https://produto.mercadolivre.com.br/MLB-2722709773-extensor-wireless-n150-powerline-av-dhp-w220av-vitrine-_JM,D-Link
+TL-WA850RE,144,(8811),2,https://produto.mercadolivre.com.br/MLB-2606781021-repetidor-wifi-tp-link-tl-wa850re-300mbps-24ghz-220v-_JM,TP-Link
+RE305,319,(738),1,https://produto.mercadolivre.com.br/MLB-2760181218-extensor-wi-fi-repetidor-tp-link-re305-branco-ac1200-_JM,TP-Link
+DIR-853,1480.30,(154),12,https://produto.mercadolivre.com.br/MLB-1755494752-roteador-wireless-d-link-ac1300-mu-mimo-4-antenas-dir-853-_JM,D-Link
+RE505X,493,(30),4,https://produto.mercadolivre.com.br/MLB-1968675865-range-extender-tp-link-re505x-dual-band-ax1500-one-mesh-_JM,TP-Link
+MW301R,98.25,(786),41,https://produto.mercadolivre.com.br/MLB-1550425971-roteador-wireless-300-mbps-2-antenas-mercusys-mw301r-nfe-_JM,Mercusys
+m300,78.99,(4),26,https://produto.mercadolivre.com.br/MLB-2149122682-repetidor-sinal-receptor-transmissor-wifi-internet-oferta-nf-_JM,Luck
+RF 301K,140.66,(1093),214,https://produto.mercadolivre.com.br/MLB-1714803990-roteador-wireless-24-ghz-300-mbps-rf-301-k-intelbras-_JM,Intelbras
+TL-WA850RE,169.99,(8811),1,https://produto.mercadolivre.com.br/MLB-2200229675-repetidor-wi-fi-tp-link-tl-wa850re-bi-volt-_JM,TP-Link
+Twibi Giga,543.08,(454),2,https://produto.mercadolivre.com.br/MLB-1744555732-roteador-sistema-wi-fi-mesh-intelbras-twibi-giga-branco-_JM,Intelbras
+DR4 300M,51,(1390),21,https://produto.mercadolivre.com.br/MLB-1500950639-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-_JM,DHJ
+RE450,499.90,(1152),2,https://produto.mercadolivre.com.br/MLB-2730998095-repetidor-de-sinal-wifi-tp-link-re450-1750mbps-ac-dual-band-_JM,TP-Link
+Deco,1648.97,(1235),9,https://produto.mercadolivre.com.br/MLB-2007389440-roteador-wi-fi-mesh-tp-link-deco-m5-3-unidades-bivolt-_JM,TP-Link
+Deco,778.99,(648),27,https://produto.mercadolivre.com.br/MLB-1227564139-tp-link-deco-m42-pack-whole-home-mesh-wi-fi-ac1200-dual-ba-_JM,TP-Link
+Deco,1098,(108),9,https://produto.mercadolivre.com.br/MLB-2199115899-roteador-tp-link-deco-m5-2-pack-ac1300-400mbps-_JM,TP-Link
+Archer,498,(543),18,https://produto.mercadolivre.com.br/MLB-1850705962-roteador-wi-fi-tp-link-archer-c80-ac1900-mu-mimo-dual-band-_JM,TP-Link
+Kit Twibi Giga+,1696.38,(412),1,https://produto.mercadolivre.com.br/MLB-2117627632-kit-roteador-sistema-wi-fi-mesh-intelbras-twibi-giga-com-4-_JM,Intelbras
+Deco,2395.97,(58),7,https://produto.mercadolivre.com.br/MLB-2010334535-roteador-sistema-wi-fi-mesh-tp-link-deco-x20-3-un-v2-bivolt-_JM,TP-Link
+Archer,241.04,(6703),34,https://produto.mercadolivre.com.br/MLB-1285571346-roteador-tp-link-wireless-dual-band-ac-1350-archer-c60-_JM,TP-Link
+300mbps,67.52,(8),159,https://produto.mercadolivre.com.br/MLB-1157162445-repetidor-sinal-wi-fi-wifi-atacado-600mbps-wireless-repeater-_JM,Wireless-N
+AC12,199.90,(191),2,https://produto.mercadolivre.com.br/MLB-2215680367-roteador-mercusys-wireless-dual-band-ac1200-867-mbps-4-ant-_JM,Mercusys
+Archer,498,(6),2,https://produto.mercadolivre.com.br/MLB-1848357143-roteador-tp-link-wireless-archer-xr500v-dual-band-gpon-voip-_JM,TP-Link
+Deco,1149.99,(71),4,https://produto.mercadolivre.com.br/MLB-2766728091-roteador-tp-link-wifi-6-ax3000-deco-x60-1-pack-onemesh-_JM,TP-Link
+LV-WR09,118.89,(423),33,https://produto.mercadolivre.com.br/MLB-2112044870-repetidor-wifi-4-antenas-amplificador-sinal-2800m-pixlink-_JM,Pix-Link
+ACtion,278.40,(1809),5,https://produto.mercadolivre.com.br/MLB-1812647717-roteador-wireless-smart-5dbi-300mbps-action-r1200-intelbras-_JM,Intelbras
+AC11,499.99,(221),21,https://produto.mercadolivre.com.br/MLB-1170282871-roteador-tenda-ac11-gigabit-dual-band-oportunidade-na-caixa-_JM,Tenda
+INTELBRAS,400.90,(312),1,https://produto.mercadolivre.com.br/MLB-1840464390-roteador-mesh-twibi-giga-intelbras-_JM,Intelbras
+Kit Twibi Fast,456.22,(377),31,https://produto.mercadolivre.com.br/MLB-2009321857-roteador-wi-fi-mesh-intelbras-kit-twibi-fast-2-unidades-_JM,Intelbras
+Twibi Giga,727.50,(5),94,https://produto.mercadolivre.com.br/MLB-1680932374-kit-2-roteadores-mesh-twibi-giga-intelbras-5-anos-garantia-_JM,Intelbras
+4750071,486.90,(377),4,https://produto.mercadolivre.com.br/MLB-1521044931-kit-2-un-roteador-intelbras-twibi-fast-mesh-ac1200-branco-_JM,Intelbras
+Twibi Fast,258.90,(339),1,https://produto.mercadolivre.com.br/MLB-1847790824-roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-1-unidade-_JM,Intelbras
+RE305,345,(8),17,https://produto.mercadolivre.com.br/MLB-2004880259-repetidor-tp-link-re305-branco-_JM,TP-Link
+TL-WA850RE,158.40,(8811),22,https://produto.mercadolivre.com.br/MLB-917131183-repetidor-de-sinal-wireless-tp-link-tl-wa850re300mbps-_JM,TP-Link
+Archer,485,(543),2,https://produto.mercadolivre.com.br/MLB-1841338364-roteador-wireless-tp-link-ac1900-archer-c80-mimo-dual-band-_JM,TP-Link
+AC8,298,(43),1,https://produto.mercadolivre.com.br/MLB-2611460136-roteador-tenda-ac8-wireless-1200mbps-dual-band-ac-4-antenas-_JM,Tenda
+nova MW6,871.90,(169),5,https://produto.mercadolivre.com.br/MLB-1352153348-roteador-mesh-mw6-gigabit-2-pecas-original-tenda-_JM,Tenda
+TL-WA855RE,188,(1816),1,https://produto.mercadolivre.com.br/MLB-2707179620-repetidor-rede-wi-fi-tp-link-wa855re-300mbps-com-2-antenas-_JM,TP-Link
+MF25,1139.05,(48),11,https://produto.mercadolivre.com.br/MLB-1521290106-kit-4-modens-roteador-3g-wifi-zte-mf25b-desbloqueado-_JM,ZTE
+TL-WR949N,208,(2462),2,https://produto.mercadolivre.com.br/MLB-2030232508-roteador-tp-link-tl-w-r949n-wi-fi-wireless-450mbps-3-antenas-_JM,TP-Link
+AC1750,548,(1152),6,https://produto.mercadolivre.com.br/MLB-2029094753-repetidor-de-sinal-tp-link-re450-1750mbps-wifi-ac-dual-band-_JM,TP-Link
+Archer,256.50,(6703),11,https://produto.mercadolivre.com.br/MLB-1097130675-roteador-wireless-tp-link-ac1350-archer-c60-dual-band-_JM,TP-Link
+LV-WR09,145.94,(5358),90,https://produto.mercadolivre.com.br/MLB-707585339-repetidor-wi-fi-wireless-n-ap-extensor-sinal-router-wifi-_JM,Pix-Link
+TL-WA850RE,171.28,(4936),18,https://produto.mercadolivre.com.br/MLB-874819479-repetidor-expansor-tp-link-wi-fi-network-300mbps-tl-wa850re-_JM,TP-Link
+Deco,1290,(648),3,https://produto.mercadolivre.com.br/MLB-1820007038-roteador-tp-link-deco-m4-wireless-ac1200-sistema-mesh-3-pack-_JM,TP-Link
+300mbps,85.87,(11),2,https://produto.mercadolivre.com.br/MLB-2150491964-repetidor-amplificador-de-sinal-wifi-300mbps-botao-wps-_JM,Knup
+RE163V,178.55,(349),31,https://produto.mercadolivre.com.br/MLB-1631070542-o-melhor-roteador-wireless-n-300mbps-3-antenas-multilaser-_JM,Multilaser
+Super Ap,249.90,(4),1,https://produto.mercadolivre.com.br/MLB-2782198918-roteador-super-ap-gts-network-24ghz-5ghz-dual-band-gigabit-_JM,Nobrand
+"AC5 - Roteador Wireless, Roteador Rápido, Repetidor de sinal, Repetidor Wireless",179.90,(50),4,https://produto.mercadolivre.com.br/MLB-2760290189-roteador-wifi-fast-mu-mimo-4-antenas-dualband-ac5-1200-tenda-_JM,Tenda
+Mi,109,(1074),1,https://produto.mercadolivre.com.br/MLB-2722650998-repetidor-xiaomi-mi-wi-fi-range-ext-pro-r03-preto-100v240v-_JM,Xiaomi
+LV-WR09,135,(423),1,https://produto.mercadolivre.com.br/MLB-2072948083-repetidor-wifi-300mps-4-antenas-amplificador-sinal-pix-link-_JM,Pix-Link
+Deco,1350.20,(648),1,https://produto.mercadolivre.com.br/MLB-1676888440-kit-2-pecas-repetidor-giga-wi-fi-mesh-deco-m4-ac1200-tplink-_JM,TP-Link
+UniFi,1280,(581),2,https://produto.mercadolivre.com.br/MLB-2661938209-ubnt-u6-lite-unifi-ap-ac-2x2-wifi-6-15gbps-com-fonte-_JM,Ubiquiti
+Adaptador Powerline,449.50,(85),3,https://produto.mercadolivre.com.br/MLB-2690306304-wpa4220-kit-tp-link-starter-kit-powerline-av600-wireless-_JM,TP-Link
+WS5200,358,(185),3,https://produto.mercadolivre.com.br/MLB-2170184928-roteador-wireless-wi-fi-huawei-ws5200-gigabit-ac1300-_JM,Huawei
+Adaptador Powerline,270.95,(811),3,https://produto.mercadolivre.com.br/MLB-1298626535-powerline-tp-link-tl-wpa4220-extender-300mbps-wifi-av600-_JM,TP-Link
+TL-WR829N,113.99,(470),9,https://produto.mercadolivre.com.br/MLB-2014286861-roteador-access-point-repetidor-tp-link-wr829n-300mbps-wifi-_JM,TP-Link
+ACtion,356.24,(2204),12,https://produto.mercadolivre.com.br/MLB-2043241177-roteador-controle-de-acessos-wifi-gigabit-intelbras-rg1200-_JM,Intelbras
+LV-WR09,95.99,(423),1,https://produto.mercadolivre.com.br/MLB-2207173067-repetidor-wi-fi-roteador-2800mts-4-antenas-sem-fio-wifi-rot-_JM,Pix-Link
+Archer,563.88,(6),2,https://produto.mercadolivre.com.br/MLB-2039514934-roteador-gpon-wireless-tp-link-archer-xr500v-preto-_JM,TP-Link
+TL-WA855RE,199,(260),4,https://produto.mercadolivre.com.br/MLB-1469660249-repetidor-extensor-wi-fi-2-antenas-tp-link-tl-wa-855re-wifi-_JM,TP-Link
+DIR-842,259.90,(816),2,https://produto.mercadolivre.com.br/MLB-2780426581-roteador-wireless-d-link-ac1200-dir-842-dual-band-gigabit-_JM,D-Link
+Archer,478,(543),14,https://produto.mercadolivre.com.br/MLB-1850708215-roteador-wi-fi-tp-link-archer-c80-ac1900-mu-mimo-1900mbps-_JM,TP-Link
+3G,1089,(8),97,https://produto.mercadolivre.com.br/MLB-1648392984-kit-internet-rural-4g-3g-rot-wifi-ant-ext-tel-s-fio-_JM,Aquário
+Archer,423.36,(2417),1,https://produto.mercadolivre.com.br/MLB-2789115816-roteador-wireless-tp-link-archer-c6-ac1200-867mbps-_JM,TP-Link
+LV-WR09 Repetidor Roteador WiFi repetidor de sinal repetidor wifi multiplicador de sinal repetidor wifi repetidor de internet multiplicador de sinal,129.98,(5358),409,https://produto.mercadolivre.com.br/MLB-1811697803-repetidor-wifi-4-antenas-amplificador-de-sinal-500mbs-link-_JM,Pix-Link
+Kit com 2 Twibi Giga acess point 2.4 GHz 5 GHz velocidade 1167 Mbp alta qualidade,899,(454),2,https://produto.mercadolivre.com.br/MLB-2717457027-roteador-sistema-wi-fi-mesh-intelbras-twibi-giga-2-unidades-_JM,Intelbras
+AC12G,239,(671),1,https://produto.mercadolivre.com.br/MLB-2057155641-roteador-wifi-ac12g-mercusys-gigabit-dual-band-4-antenas-_JM,Mercusys
+MW301R,64,(1268),34,https://produto.mercadolivre.com.br/MLB-1892961211-roteador-wireless-300-mbps-mercusys-mw301r-_JM,Mercusys
+DAP-1610,219.90,(144),1,https://produto.mercadolivre.com.br/MLB-2696299625-repetidor-wifi-ac1200-d-link-dap-1610-branco-100v240v-novo-_JM,D-Link
+EC220-G5,328,(482),5,https://produto.mercadolivre.com.br/MLB-2030210282-roteador-wireless-tp-link-ac1200-dual-band-ec220-g5-gigabit-_JM,TP-Link
+TL-WA855RE,188,(1816),1,https://produto.mercadolivre.com.br/MLB-2029107167-repetidor-de-sinal-wi-fi-tp-link-855re-300mbps-com-2-antenas-_JM,TP-Link
+sse,167.99,(16),244,https://produto.mercadolivre.com.br/MLB-693464104-roteador-wireless-300mbps-ap-replicador-amplificador-melhor-_JM,Black n
+AirPlus G,99.90,(12),2,https://produto.mercadolivre.com.br/MLB-2163951274-roteador-d-link-150mbps-wireless-1-antena-di-524-lacrado-_JM,D-Link
+TL-WA850RE,149.99,(8811),15,https://produto.mercadolivre.com.br/MLB-2613041877-repetidor-de-sinal-wifi-wireless-tp-link-tl-wa850re-300mbps-_JM,TP-Link
+TL-WR840N,116.99,(1707),5,https://produto.mercadolivre.com.br/MLB-2722067519-roteador-tp-link-300mbps-wireless-tl-wr840n-w-_JM,TP-Link
+ZTE 3G 3G+ 4G 4G+,639.99,(5),59,https://produto.mercadolivre.com.br/MLB-1226630016-wifi-veicular-12110220v-onibus-barcos-motorhome-32usuarios-_JM,ZTE
+Twibi Giga,439,(454),32,https://produto.mercadolivre.com.br/MLB-1951503429-roteador-wi-fi-5-mesh-ac-1200-twibi-giga-intelbras-5gb-_JM,Intelbras
+Bullet,400,(45),1,https://produto.mercadolivre.com.br/MLB-2717293083-pack-3-ubiquiti-nanostation-5-airmax-cpe-58ghz-14dbi-nano-5-_JM,Ubiquiti
+Twibi Fast,267.90,(214),6,https://produto.mercadolivre.com.br/MLB-2073458194-roteador-twibi-fast-wi-fi-5-mesh-intelbras-_JM,Intelbras
+AP 310,384.66,(122),1,https://produto.mercadolivre.com.br/MLB-2655546246-roteador-wi-fi-access-point-ap-310-com-gerenciamento-_JM,Intelbras
+TL-WA850RE,199.90,(8811),1,https://produto.mercadolivre.com.br/MLB-907021010-repetidor-de-sinal-wireless-wi-fi-300mbps-tp-link-tl-wa850re-_JM,TP-Link
+ACtion,337.10,(1809),6,https://produto.mercadolivre.com.br/MLB-1648172877-roteador-intelbras-wireless-action-rf-1200-dual-band-preto-_JM,Intelbras
+Repetidor,279.89,(928),8,https://produto.mercadolivre.com.br/MLB-2077289961-repetidor-wireless-dual-band-245ghz-mesh-ac750-re200-_JM,TP-Link
+Deco,1748,(1235),24,https://produto.mercadolivre.com.br/MLB-2029287273-roteador-tp-link-deco-m5-ac1300-dual-band-mesh-gigabit-3pack-_JM,TP-Link
+Mi,122.45,(1074),18,https://produto.mercadolivre.com.br/MLB-1959879469-amplificador-de-wifi-300mbps-pro-xiaomi-original-promoco-_JM,Xiaomi
+ACtion,166.60,(5),51,https://produto.mercadolivre.com.br/MLB-1118289792-adaptador-wireless-wi-fi-dual-band-action-a1200-intelbras-_JM,Intelbras
+Space,319.90,(10),1,https://produto.mercadolivre.com.br/MLB-2670509407-roteador-easymesh-ac1200-gb-zte-space-s-zt196-_JM,ZTE
+Archer,319,(3443),7,https://produto.mercadolivre.com.br/MLB-1973015477-roteador-tp-link-archer-c60-wireless-ac1350-dual-band-_JM,TP-Link
+TL-WR829N,99.52,(470),25,https://produto.mercadolivre.com.br/MLB-1589374653-roteador-tp-link-wireless-multimodo-300-mbps-tl-wr829n-_JM,TP-Link
+LV-WR09,126.90,(5358),10,https://produto.mercadolivre.com.br/MLB-1578314842-repetidor-wifi-amplificador-sinal-extensor-4-antenas-wireles-_JM,Pix-Link
+Nest Wifi,3299,(23),1,https://produto.mercadolivre.com.br/MLB-2608058066-sistema-wi-fi-mesh-google-wifi-nest-snow-pack-c3-ga00823-us-_JM,Google
+Archer,217.17,(44),21,https://produto.mercadolivre.com.br/MLB-1812813930-roteador-tp-link-wi-fi-ac1200-dual-band-archer-c54-_JM,TP-Link
+Mi,198.90,(105),1,https://produto.mercadolivre.com.br/MLB-2143547624-roteador-wi-fi-xiaomi-mi-router-4c-300mbps-4-antenas-_JM,Xiaomi
+GF 1200,179,(175),1,https://produto.mercadolivre.com.br/MLB-2741894984-roteador-wireless-dual-band-ac-w5-1200f-intelbras-_JM,Intelbras
+Deco,2398,(71),21,https://produto.mercadolivre.com.br/MLB-1845835905-roteador-mesh-tp-link-deco-x60-wifi6-3000mbps-pack-com-2-_JM,TP-Link
+Asics,144.82,(34),1,https://produto.mercadolivre.com.br/MLB-2677232667-repetidor-extensor-de-alcance-universal-wifi-300mbps-a9-_JM,813 - tenda
+Roteadores,274.99,(523),13,https://produto.mercadolivre.com.br/MLB-1928660531-roteador-wi-fi-1200mbps-porta-gigabit-greatek-gwr1200ac-_JM,Greatek
+Smart Mesh,749,(21),3,https://produto.mercadolivre.com.br/MLB-1681696150-roteador-wireless-d-link-exo-smart-mesh-ac1300-mbps-dir-1360-_JM,D-Link
+Claro VIVO TIM OI,399,(23),615,https://produto.mercadolivre.com.br/MLB-1218061959-modem-roteador-b681-wifi-3g-2g-chip-entrada-antena-rural-_JM,Huawei
+Kit Roteador Wi-Fi 5 Mesh – Twibi Giga+ - roteador mesh - roteador intelbras -  roteador wifi - roteador 360m² - roteador gigabit - roteador 100 megas - roteador dual band,915.90,(4),137,https://produto.mercadolivre.com.br/MLB-1817151307-conjunto-roteador-wi-fi-5-mesh-ac-1200-twibi-giga-intelbras-_JM,Intelbras
+RE200,198,(102),25,https://produto.mercadolivre.com.br/MLB-2166623526-repetidor-de-sinal-wi-fi-tp-link-ac750-re200-bivolt-branco-_JM,TP-Link
+LV-WR09,119.85,(423),4,https://produto.mercadolivre.com.br/MLB-2224124953-repetidor-de-sinal-e-roteador-wifi-4-antenas-2800m-orignal-_JM,Pix-Link
+TL-WR840N,123.49,(2505),92,https://produto.mercadolivre.com.br/MLB-1780767287-roteador-repetidor-n300-wifi-300mbps-tp-link-tl-wr840nw-v6-_JM,TP-Link
+Archer,820,(7),3,https://produto.mercadolivre.com.br/MLB-1529950866-roteador-wireless-dual-band-gigabit-ac1750-acher-c7-_JM,TP-Link
+MW300RE,173.96,(192),4,https://produto.mercadolivre.com.br/MLB-1351543479-repetidor-wireless-mercusys-mw300re-300mbps-com-2-antenas-_JM,Mercusys
+LV-WR09,99.49,(423),6,https://produto.mercadolivre.com.br/MLB-2631153372-expansor-wifi-4-antenas-amplificador-de-sinal-2800m-pixlink-_JM,Pix-Link
+Mi,113.52,(1074),13,https://produto.mercadolivre.com.br/MLB-2012200444-modem-roteador-wifi-xiaomi-cobertura-ampla-p-ambientes-_JM,Xiaomi
+Archer,192.64,(44),21,https://produto.mercadolivre.com.br/MLB-2170188265-roteador-tp-link-archer-c54-ac1200-wireless-dual-band-245g-_JM,TP-Link
+RF 301K,159.90,(1093),2,https://produto.mercadolivre.com.br/MLB-1800055681-roteador-wireless-2-antenas-intelbras-repetidor-barato-300mb-_JM,Intelbras
+RT-AC59U,307.33,(105),53,https://produto.mercadolivre.com.br/MLB-1663140147-roteador-asus-rtac59u-ac1500-dband-4ant-wifi-mumimo-gig-ipv6-_JM,Asus
+LV-WR09,109.90,(5358),17,https://produto.mercadolivre.com.br/MLB-1935947153-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-_JM,Pix-Link
+MW301R,98.90,(1268),19,https://produto.mercadolivre.com.br/MLB-1980749999-roteador-wireless-n-mercury-300-mbps-mw301r-branco-24hz-_JM,Mercusys
+Huawei,387.89,(7),89,https://produto.mercadolivre.com.br/MLB-699274418-huawei-b681-2g-3g-wifi-chip-direto-n-aparelho-modem-roteador-_JM,Huawei
+Deco,529,(1235),59,https://produto.mercadolivre.com.br/MLB-2642282243-access-point-roteadorwi-fi-mesh-tp-link-deco-m5-branco-_JM,TP-Link
+RE160V,99.90,(324),41,https://produto.mercadolivre.com.br/MLB-1850932577-roteador-wi-fi-2-antenas-300mbps-24ghz-bivolt-multilaser-_JM,Multilaser
+"Repetidor Roteador WiFi LV-WR09 Bivolt RJ45, Repetidor, Repetidor Wifi, Amplificador de Sinal",134.90,(5358),5361,https://produto.mercadolivre.com.br/MLB-1630995615-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-pixlink-_JM,Pix-Link
+Nest Wifi,2816,(23),116,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-access-point-google-nest-wifi-snow-220v-3-unidades/p/MLB16001332?pdp_filters=category:MLB5867,Google
+Deco,2878.88,(71),5,https://produto.mercadolivre.com.br/MLB-2719528536-roteador-sistema-mesh-wi-fi-6-tp-link-deco-x60-ax3000-pack-3-_JM,TP-Link
+TL-WPA4220,504,(4),105,https://produto.mercadolivre.com.br/MLB-1772697600-kit-extensor-wifi-tp-link-powerline-av600-tl-wpa4220tkit-_JM,TP-Link
+DIR-822,224.99,(369),7521,https://www.mercadolivre.com.br/roteador-d-link-dir-822-preto-100v240v/p/MLB6262653?pdp_filters=category:MLB5867,D-Link
+LV-WR09,114.90,(5358),872,https://produto.mercadolivre.com.br/MLB-1392639855-repetidor-wifi-4-antenas-pixlink-ampliador-de-sinal-1200mb-_JM,Pix-Link
+"Repetidor, Amplificador, Extensor, Sinal Wifi, Wi Fi, Internet, 2.4 Ghz, Potente",74.95,(19),545,https://produto.mercadolivre.com.br/MLB-2054331732-repetidor-wifi-extensor-de-sinal-amplificado-600-mbps-barato-_JM,Casa e Pet Mix
+LV-WR08,78.99,(240),5933,https://www.mercadolivre.com.br/roteador-pix-link-lv-wr08-branco/p/MLB15305515?pdp_filters=category:MLB5867,Pix-Link
+Deco,1490,(1235),320,https://produto.mercadolivre.com.br/MLB-1898943068-access-point-roteador-wi-fi-mesh-tp-link-deco-m5-3-unid-_JM,TP-Link
+Deco,467,(13),537,https://produto.mercadolivre.com.br/MLB-1288862550-tp-link-deco-m5-whole-home-wi-fi-ac1300-dual-band-1-peca-_JM,TP-Link
+2 Antenas,84.99,(5),151,https://produto.mercadolivre.com.br/MLB-2121413420-roteador-repetidor-wirelles-1200mbps-2-antena-amplificador-_JM,TP-Link
+Mi,93.60,(1074),46,https://produto.mercadolivre.com.br/MLB-2794331666-roteador-repetidor-sinal-wireles-xiaomi-mi-wifi-extender-pro-_JM,Xiaomi
+TL-WA850RE,154.49,(8811),48,https://produto.mercadolivre.com.br/MLB-2031873467-repetidor-de-sinal-wifi-wireless-tp-link-tl-wa850re-300mbps-_JM,TP-Link
+RE305,321.22,(8),231,https://www.mercadolivre.com.br/access-point-range-extender-sistema-wi-fi-mesh-tp-link-re305-v3-branco/p/MLB17944102?pdp_filters=item_id:MLB2068531039,TP-Link
+RE305,321.22,(738),197,https://produto.mercadolivre.com.br/MLB-1636545360-repetidor-tp-link-wi-fi-ac1200-re305-_JM,TP-Link
+Archer,291,(2417),61598,https://www.mercadolivre.com.br/access-point-roteador-tp-link-archer-c6-preto-220v/p/MLB14591620?pdp_filters=item_id:MLB2805705096,TP-Link
+MW325R,119.89,(245),91,https://produto.mercadolivre.com.br/MLB-1731685769-roteador-wireless-n-otimizado-300mbps-mw325r-_JM,Mercusys
+ACtion,189,(363),6014,https://www.mercadolivre.com.br/roteador-intelbras-action-r1200-preto-110v220v/p/MLB10503881?pdp_filters=item_id:MLB1901642431,Intelbras
+REPETIDOR WIFI,78.30,(13),82,https://produto.mercadolivre.com.br/MLB-1823641809-repetidor-de-sinal-wifi-rede-roteador-roteador-potente-600mb-_JM,KAPM
+REPETIDOR WI-FI,63.90,(64),1552,https://produto.mercadolivre.com.br/MLB-1930081891-repetidor-de-sinal-amplificador-wireless-wifi-300mbps-barato-_JM,WIRELESS
+Kit Twibi Giga+,400.90,(412),226,https://www.mercadolivre.com.br/roteador-sistema-wi-fi-mesh-intelbras-kit-twibi-giga-branco-100v240v/p/MLB19461111?pdp_filters=category:MLB5867,Intelbras
+TL-MR3020,360,(4),69,https://produto.mercadolivre.com.br/MLB-2191452766-roteador-wi-fi-tp-link-3g4g-modem-usb-zte-mf190-_JM,TP-Link
+Archer,169.99,(5532),29,https://produto.mercadolivre.com.br/MLB-2047856451-roteador-tp-link-archer-c20w-ac750-wisp-preset-wireless-dual-_JM,TP-Link
+WA850RE,174.99,(8811),217,https://produto.mercadolivre.com.br/MLB-1510686979-repetidor-de-internet-wiffi-para-roteador-300-mbps-tp-link-_JM,TP-Link
+Space,257.65,(17),217,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-zte-space-zt196-branco-110v220v/p/MLB18569280?pdp_filters=category:MLB5867,ZTE
+Archer,349.90,(382),601,https://produto.mercadolivre.com.br/MLB-2199578978-roteador-tp-link-archer-c6-ac1200-wireless-gigabite-dual-_JM,TP-Link
+900MB,59.90,(18),353,https://produto.mercadolivre.com.br/MLB-2015399844-repetidor-amplificador-de-sinal-wifi-900mbps-botao-wps-_JM,R3SEG
+Wireless,51.99,(93),2263,https://produto.mercadolivre.com.br/MLB-2025806600-repetidor-dr4-300m-branco-110v220v-bivolt-_JM,Ohpro
+Archer,289.99,(6703),35,https://produto.mercadolivre.com.br/MLB-1520140542-roteador-tp-link-wireless-dual-band-ac-1350-archer-c60-_JM,TP-Link
+Auranet,768.79,(20),1046,https://www.mercadolivre.com.br/access-point-tp-link-auranet-eap225-branco/p/MLB15997858?pdp_filters=category:MLB5867,TP-Link
+300mbps,59.99,(22),798,https://produto.mercadolivre.com.br/MLB-1883583441-roteador-repetidor-wireless-n-sinal-wifi-repeater-300mbps-_JM,BAISEC
+Deco M5,924.21,(98),12,https://produto.mercadolivre.com.br/MLB-1928978565-roteador-tp-link-wireless-ac1300-cx-2-un-deco-m5-_JM,TP-Link
+REPETIDOR WI-FI,68.99,(9),269,https://produto.mercadolivre.com.br/MLB-2150907178-roteador-repetidor-wireless-sinal-wifi-repeater-300mbps-nf-e-_JM,WIRELESS
+EC220-G5,240.19,(482),93,https://produto.mercadolivre.com.br/MLB-1671373020-roteador-tp-link-wireless-ac1200-dual-band-ec220-g5-_JM,TP-Link
+TL-WR849N,97,(3587),26860,https://www.mercadolivre.com.br/roteador-tp-link-tl-wr849n-branco-e-prata-110v220v/p/MLB8063126?pdp_filters=category:MLB5867,TP-Link
+DAP-1610,190,(144),1824,https://www.mercadolivre.com.br/repetidor-d-link-dap-1610-branco-100v240v/p/MLB15306587?pdp_filters=item_id:MLB2663230768,D-Link
+Deco X20,2413.82,(58),527,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-x20-branco-220v-3-unidades/p/MLB16139810?pdp_filters=category:MLB5867,TP-Link
+Archer,208.90,(769),245,https://produto.mercadolivre.com.br/MLB-2662769686-roteador-tp-link-archer-c50-wi-fi-ac1200-dual-band-_JM,TP-Link
+Deco,21.90,(21),1095,https://produto.mercadolivre.com.br/MLB-1814119105-suporte-de-parede-triangular-para-roteador-tp-link-m5-oferta-_JM,Impressionante3D
+DR4 300M,60.80,(1390),954,https://produto.mercadolivre.com.br/MLB-1655452290-repetidor-de-sinal-wifi-preco-bom-expansor-wireless-internet-_JM,DHJ
+Halo S12,317.98,(24),32,https://produto.mercadolivre.com.br/MLB-1811826936-roteador-mercusys-halo-s12-ac1200-sistema-wifi-mesh-2-pack-_JM,Mercusys
+Deco X20,1397,(58),432,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-x20-branco-220v-2-unidades/p/MLB16139811?pdp_filters=category:MLB5867,TP-Link
+ACtion,237.40,(1809),39,https://produto.mercadolivre.com.br/MLB-2668309481-roteador-repetidor-5g-wifi-wireless-action-rf-1200-intelbras-_JM,Intelbras
+ACtion,347,(2204),262,https://produto.mercadolivre.com.br/MLB-1984721221-roteador-dual-band-wifi-giga-action-rg-1200-intelbras-_JM,Intelbras
+Wifi,241.25,(6),174,https://produto.mercadolivre.com.br/MLB-2606086886-repetidor-range-extender-tp-link-bivolt-_JM,TP-Link
+Archer,704.85,(143),43,https://produto.mercadolivre.com.br/MLB-2015087534-roteador-wifi-6-dual-band-gigabit-archer-ax50-_JM,TP-Link
+MD-4000,589.90,(5),168,https://produto.mercadolivre.com.br/MLB-1756825771-modem-celular-wifi-4g-heptaband-md-4000-aquario-_JM,Aquário
+Deco,2637.90,(27),899,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-wmm-tp-link-deco-deco-m9-plus-v2-branco-220v-3-unidades/p/MLB18467282?pdp_filters=category:MLB5867,TP-Link
+AC6,229.74,(448),4467,https://www.mercadolivre.com.br/roteador-repetidor-tenda-ac6-preto-110v220v/p/MLB8059378?pdp_filters=category:MLB5867,Tenda
+Mi,540,(9),147,https://produto.mercadolivre.com.br/MLB-2077726941-roteador-xiaomi-ax3000-wifi-6-_JM,Xiaomi
+Kit Roteador Twibi Giga +,1344.50,(5),180,https://produto.mercadolivre.com.br/MLB-1979768919-kit-3-unidades-roteador-wi-fi-5-mesh-ac-1200-twibi-giga-_JM,Intelbras
+AX3 Quad-Core,518,(253),58,https://produto.mercadolivre.com.br/MLB-2166662013-roteador-huawei-ax3-ws7200-quad-core-dual-band-wifi-6-plus-_JM,Huawei
+Deco E4,400,(449),1775,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-e4-branco-100v240v/p/MLB15466435?pdp_filters=category:MLB5867,TP-Link
+TL-WPA4220,588,(811),64,https://produto.mercadolivre.com.br/MLB-1736694267-extensor-wi-fi-power-line-tp-link-tl-wpa4220-t-kit-pack-3un-_JM,TP-Link
+TL-WPA4220T - Extensor Powerline,618,(4),116,https://produto.mercadolivre.com.br/MLB-1813478569-repetidor-wi-fi-pela-rede-eletrica-tp-link-av600-wpa4220-_JM,TP-Link
+RE200,199,(928),14,https://produto.mercadolivre.com.br/MLB-2704947848-repetidor-wi-fi-tp-link-dual-band-re200-v4-ac750-bivolt-_JM,TP-Link
+300mbps,59.99,(36),973,https://produto.mercadolivre.com.br/MLB-1726035873-repetidor-amplificador-de-sinal-wifi-300mbps-botao-wps-_JM,7evenBrasil
+PowerBeam,816,(21),663,https://produto.mercadolivre.com.br/MLB-704406563-ubiquiti-powerbeam-m5-25dbi-pbe-m5-400-_JM,Ubiquiti
+Archer,1000,(69),741,https://www.mercadolivre.com.br/roteador-tp-lin-arcrer-ax73-wi-fi-6-ax5400-wireless-dualband-cor-preto-voltagem-110v220v/p/MLB19592059?pdp_filters=category:MLB5867,TP-Link
+TL-WA855RE,168,(9),264,https://produto.mercadolivre.com.br/MLB-1400052076-repetidor-e-extensor-de-sinal-wi-fi-tp-link-wa-855re-300mbps-_JM,TP-Link
+ACtion,356.24,(2204),185,https://produto.mercadolivre.com.br/MLB-1921744429-roteador-wireless-action-rg1200-gigabit-dual-ac1200-mbps-_JM,Intelbras
+WS5800,1499,(44),124,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-huawei-ws5800-branco-100v240v-3-unidades/p/MLB16589781?pdp_filters=category:MLB5867,Huawei
+Archer,201.83,(85),989,https://www.mercadolivre.com.br/roteador-wmm-range-extender-access-point-tp-link-archer-c50-v6-branco-220v/p/MLB18735760?pdp_filters=category:MLB5867,TP-Link
+Archer,428.99,(284),599,https://produto.mercadolivre.com.br/MLB-1322211614-roteador-tplink-archer-c7-verso-50-ac1750-wireless-_JM,TP-Link
+Mi,871.20,(28),88,https://produto.mercadolivre.com.br/MLB-2188039277-roteador-xiaomi-ax6000-aiot-6000-mbs-wi-fi6-vpn-512mb-_JM,Xiaomi
+1200mbps,84.99,(141),1933,https://produto.mercadolivre.com.br/MLB-743960836-roteador-repetidor-wirelles-1200mbps-2-antena-amplificador-_JM,Roteador Repetidor
+Deco,480,(21),115,https://www.mercadolivre.com.br/access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-deco-m4-v1-branco-e-preto-100v240v/p/MLB18383590?pdp_filters=category:MLB5867,TP-Link
+300mbps,73.89,(5),241,https://produto.mercadolivre.com.br/MLB-2190354146-repetidor-de-sinal-amplificador-wifi-wireless-300mbps-_JM,WiFi Repeater
+REPETIDOR WI-FI,58.94,(77),2606,https://produto.mercadolivre.com.br/MLB-1929056583-roteador-repetidor-wireless-sinal-wifi-repeater-300mbps-_JM,WIRELESS
+TL-WPA4220,517,(7),224,https://produto.mercadolivre.com.br/MLB-1842440028-extensor-wireless-powerline-tp-link-tl-wpa4220-tkit-pack-3un-_JM,TP-Link
+Deco,896,(1235),18,https://produto.mercadolivre.com.br/MLB-2192897533-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+Deco,505,(1235),47,https://produto.mercadolivre.com.br/MLB-1923217209-access-point-roteador-wi-fi-mesh-tp-link-deco-m5-branco-_JM,TP-Link
+Deco,3298,(71),71,https://produto.mercadolivre.com.br/MLB-1889915869-roteador-sistema-mesh-wi-fi-6-tp-link-deco-x60-ax3000-pack-3-_JM,TP-Link
+Deco,2836.54,(27),42,https://produto.mercadolivre.com.br/MLB-2065840664-tp-link-deco-m9-plus-3-un-mesh-wi-fi-ac2200-tri-band-v2-biv-_JM,TP-Link
+Archer,402,(284),2583,https://www.mercadolivre.com.br/roteador-wds-bridge-wmm-tp-link-archer-c7-v5-preto-220v/p/MLB18107776?pdp_filters=category:MLB5867,TP-Link
+IWR 1000N,120,(49),1019,https://www.mercadolivre.com.br/roteador-access-point-intelbras-iwr-1000n-branco-100v240v/p/MLB8734630?pdp_filters=category:MLB5867,Intelbras
+RE200,179.90,(928),67,https://produto.mercadolivre.com.br/MLB-2138241269-repetidor-extensor-sinal-wi-fi-tp-link-re200-dual-band-ac750-_JM,TP-Link
+Archer,237.88,(6703),371,https://produto.mercadolivre.com.br/MLB-886902196-roteador-tp-link-wifi-dual-band-ac1350-archer-c60-5-antenas-_JM,TP-Link
+HZ-WR-03,59.99,(24),532,https://produto.mercadolivre.com.br/MLB-1763578777-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-haiz-_JM,Haiz
+IWE 3000N,1430,(712),81,https://produto.mercadolivre.com.br/MLB-1354476884-repetidor-de-sinal-wireless-iwe-3000n-intelbras-promoco-_JM,Intelbras
+Repetidor Amplificador De Sinal Wifi 600/mbps Ultra Rapido Rápido Wireless Expansor de sinal 600mbps 600/mega Wi Fi Repeater Wireless-n NFE Velocidade Internet Promoção Aumentar Roteador,78.10,(50),1046,https://produto.mercadolivre.com.br/MLB-1683299683-repetidor-rapido-wi-fi-600-mbps-sinal-amplificador-wireless-_JM,Wireless-n
+DR4 300M,47.99,(190),4683,https://produto.mercadolivre.com.br/MLB-1874338227-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-_JM,cpx
+ACtion,179.55,(1809),111,https://produto.mercadolivre.com.br/MLB-1862132422-roteador-wireless-action-intelbras-rf-1200-smart-dual-band-_JM,Intelbras
+TL-WR841HP,309.45,(65),265,https://www.mercadolivre.com.br/roteador-tp-link-tl-wr841hp-v5-preto/p/MLB15980101?pdp_filters=category:MLB5867,TP-Link
+Deco,1149.23,(71),112,https://produto.mercadolivre.com.br/MLB-1987143485-roteador-mesh-tp-link-deco-x60-wifi6-ax3000-1-unidade-_JM,TP-Link
+Space,525.40,(17),90,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-zte-space-zt196-branco-110v220v-2-unidades/p/MLB18568994?pdp_filters=category:MLB5867,ZTE
+EC220-G5,293.20,(482),40,https://produto.mercadolivre.com.br/MLB-2202463815-roteador-wireless-tp-link-ac1200-dual-band-ec220-g5-gigabit-_JM,TP-Link
+GA02434-BR,1999,(55),405,https://produto.mercadolivre.com.br/MLB-2027893329-google-wi-fi-roteador-mesh-ac1200-3-unidades-_JM,Google
+AC1750,495,(1152),88,https://produto.mercadolivre.com.br/MLB-1807994015-repetidor-de-sinal-wifi-tp-link-re450-1750mbps-ac-dual-band-_JM,TP-Link
+1200Mbps,73.99,(43),958,https://produto.mercadolivre.com.br/MLB-1863231003-wi-fi-repetidor-extensor-wireless-2antenas-1200mbps-rapido-_JM,12M
+Archer,147,(212),3817,https://www.mercadolivre.com.br/access-point-repetidor-roteador-tp-link-archer-c20-v5-azul-e-cinza/p/MLB15981872?pdp_filters=category:MLB5867,TP-Link
+MF253,590,(202),1714,https://www.mercadolivre.com.br/roteador-zte-mf253-branco/p/MLB6079834?pdp_filters=category:MLB5867,ZTE
+Wi-Fi repeater,57.20,(8),152,https://produto.mercadolivre.com.br/MLB-1834612229-repetidor-expansor-de-sinal-600mbps-melhora-sinal-wifi-_JM,Wireless-n Repeater
+TL-WA850RE,158.71,(8811),113,https://produto.mercadolivre.com.br/MLB-1765386723-repetidor-expansor-tp-link-wi-fi-network-300mbps-tl-wa850re-_JM,TP-Link
+Archer,177.93,(44),34,https://produto.mercadolivre.com.br/MLB-1799494165-roteador-tp-link-wi-fi-ac1200-dual-band-archer-c54-_JM,TP-Link
+Archer,378,(24),625,https://produto.mercadolivre.com.br/MLB-1305791630-roteador-wireless-tp-link-archer-c6-ac1200-gigabit-1001000-wi-fi-dual-band-mu-mimo-1200-mbps-_JM,TP-Link
+Mi,99.99,(1074),277,https://produto.mercadolivre.com.br/MLB-2029115497-repetidor-xiaomi-mi-pro-preto-100v240v-_JM,Xiaomi
+AC11,344.91,(221),2064,https://www.mercadolivre.com.br/roteador-tenda-ac11-preto-100v240v/p/MLB14743309?pdp_filters=category:MLB5867,Tenda
+Deco,467,(1235),441,https://produto.mercadolivre.com.br/MLB-1850589511-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+MW330HP,205.90,(257),978,https://produto.mercadolivre.com.br/MLB-1280871733-roteador-wireless-wifi-tp-link-mercusys-quebra-parede-alta-potencia-1000mw-n-941hp-envios-24hs-_JM,Mercusys
+LV-WR09,89.99,(5358),283,https://produto.mercadolivre.com.br/MLB-1874549051-roteador-repetidor-access-point-wisp-pix-link-lv-wr09-_JM,Pix-Link
+Archer,148.90,(707),11,https://produto.mercadolivre.com.br/MLB-1846110167-roteador-tp-link-wi-fi-ac750-dual-band-4-antenas-archer-c21-_JM,TP-Link
+DIR-842,227.99,(816),77,https://produto.mercadolivre.com.br/MLB-1904932228-roteador-wi-fi-d-link-gigabit-ac1200-dual-4-antenas-dir-842-_JM,D-Link
+Wi-fi Repeater,125.75,(31),509,https://produto.mercadolivre.com.br/MLB-1952784252-extensor-repetidor-de-sinal-wi-fi-1800mbps-_JM,Wireless-n Repeater
+UniFi,1661.16,(301),80,https://produto.mercadolivre.com.br/MLB-942950572-ubiquiti-ap-unifi-uap-ac-pro-br-mimo-2450ghz-4501300mbps-_JM,Ubiquiti
+DAP-1610,249.90,(144),29,https://produto.mercadolivre.com.br/MLB-1981924050-repetidor-wifi-5g-dual-band-dlink-dap-1610-2-antenas-bivolt-_JM,D-Link
+Deco,799.23,(58),39,https://produto.mercadolivre.com.br/MLB-1975342588-tp-link-mesh-deco-x20-whole-home-wi-fi-6-ax1800-1-pack-_JM,TP-Link
+RouterBOARD,225.23,(682),243,https://produto.mercadolivre.com.br/MLB-1992354383-hap-lite-mikrotik-routerboard-941-2nd-lv4-tipo-rb-750-c-wifi-_JM,MikroTik
+2021,522.40,(4),57,https://produto.mercadolivre.com.br/MLB-2047532771-roteador-sem-fio-dual-core-ws7100-gigabit-wifi-6-ax3-huawei-_JM,Huawei
+Cosmo,324.99,(413),42,https://produto.mercadolivre.com.br/MLB-2071047919-roteador-multilaser-mesh-cosmo-ac1200-2-pecas-re010-_JM,Multilaser
+MR50G,269.43,(170),16,https://produto.mercadolivre.com.br/MLB-1800439496-roteador-mercusys-wireless-gigabit-dual-band-ac1900-mr50g-_JM,Mercusys
+RouterBOARD,224.90,(682),222,https://produto.mercadolivre.com.br/MLB-1686587909-roteador-mikrotik-routeboard-wifi-hap-lite-rb941-2nd-tc-_JM,MikroTik
+Mi,97.72,(1074),47,https://produto.mercadolivre.com.br/MLB-2794325099-roteador-repetidor-sinal-wireles-xiaomi-mi-wifi-extender-pro-_JM,Xiaomi
+Twibi Fast,399,(377),111,https://produto.mercadolivre.com.br/MLB-2180858108-conjunto-roteador-intelbras-mesh-twibi-fast-2-unidades-_JM,Intelbras
+Archer,179.89,(5532),5,https://produto.mercadolivre.com.br/MLB-1666077078-roteador-wireless-tp-link-archer-c20w-dual-band-wifi-c-nfe-_JM,TP-Link
+WIFI-LV-WR09,87.99,(5358),182,https://produto.mercadolivre.com.br/MLB-1199986955-repetidor-de-sinal-wifi-amplificador-sinal-internet-wireless-_JM,Pix-Link
+HotSpot 300,349,(1679),15887,https://www.mercadolivre.com.br/roteador-intelbras-hotspot-300-branco/p/MLB6079819?pdp_filters=category:MLB5867,Intelbras
+MW300RE,93.68,(192),335,https://produto.mercadolivre.com.br/MLB-1691459158-repetidor-de-sinal-wi-fi-mercusys-mw300re-300mbp-3-antenas-_JM,Mercusys
+Archer,298.50,(14),456,https://produto.mercadolivre.com.br/MLB-1761110309-roteador-tplink-archer-c6-ac1200-full-gigabit-mesh-wifi-_JM,TP-Link
+Mi,119.68,(21),566,https://produto.mercadolivre.com.br/MLB-1923458618-amplificador-de-sinal-wifi-sem-fio-xiaomi-pro-300mbps-_JM,Xiaomi
+RE305,310,(738),511,https://produto.mercadolivre.com.br/MLB-1891038357-repetidor-de-sinal-wi-fi-tp-link-re305-ac1200-dual-band-_JM,TP-Link
+Deco,490,(108),318,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-access-point-roteador-wmm-tp-link-deco-deco-m5-v3-branco-220v/p/MLB18384165?pdp_filters=category:MLB5867,TP-Link
+RF 301K,94.25,(1093),108,https://produto.mercadolivre.com.br/MLB-2665156848-roteador-repetidor-intelbras-wireless-rf-301k-300mbps-_JM,Intelbras
+Repeater,67.50,(20),384,https://produto.mercadolivre.com.br/MLB-2033239726-repetidor-roteador-wifi-1200mbps-2-antenas-sinal-wireless-_JM,Ohpro
+Archer,769.23,(185),86,https://produto.mercadolivre.com.br/MLB-1599344167-roteador-tp-link-archer-ax50-ax3000-wifi-6-dual-preto-_JM,TP-Link
+KP-3007,99.90,(24),997,https://produto.mercadolivre.com.br/MLB-1935947257-amplificador-sinal-2800m-original-repetidor-wifi-4-antenas-_JM,Knup
+Kit Twibi Giga+,783.90,(218),85,https://produto.mercadolivre.com.br/MLB-2073471022-kit-roteador-mesh-twibi-giga-intelbras-_JM,Intelbras
+RE450,449.90,(1152),95,https://produto.mercadolivre.com.br/MLB-1615085750-repetidor-wi-fi-tp-link-re450-ac1750-alcance-ate-1110-metros-_JM,TP-Link
+REPEATER,110,(7),77,https://produto.mercadolivre.com.br/MLB-2146676199-repetidor-sinal-sem-fio-alta-velocidade-longa-distancia-wifi-_JM,Chen
+EWR-2N12,739,(11),434,https://produto.mercadolivre.com.br/MLB-1755427969-kit-amplimax-fit-elsys-link-4g-antena-externa-cabos-_JM,Elsys
+AC750,180.27,(92),2026,https://produto.mercadolivre.com.br/MLB-1611057419-repetidor-de-sinal-wi-fi-tplink-ac750-re200-_JM,TP-Link
+Repetidor Amplificador De Sinal Wifi 600/mbps Ultra Rapido Rápido Wireless Expansor de sinal 600mbps 600/mega Wi Fi Repeater Wireless-n NFE Velocidade Internet Promoção Aumentar Roteador,96.80,(45),1189,https://produto.mercadolivre.com.br/MLB-1683264148-rapido-repetidor-sinal-wifi-600-mbps-amplificador-expansor-_JM,Baratotal Store
+WOM,433,(5),387,https://produto.mercadolivre.com.br/MLB-1685258469-roteador-wireless-cpe-5ghz-16dbi-wom-5a-intelbras-_JM,Intelbras
+TL-MR3020,189.90,(149),2001,https://www.mercadolivre.com.br/roteador-access-point-wisp-wds-bridge-repetidor-tp-link-tl-mr3020-v2-cinza-220v/p/MLB18219559?pdp_filters=category:MLB5867,TP-Link
+RE305,360,(6),21,https://produto.mercadolivre.com.br/MLB-1773715113-repetidor-wifi-tp-link-re305-dual-band-1200mbps-24ghz-5ghz-_JM,TP-Link
+EC220-G5,318,(482),240,https://produto.mercadolivre.com.br/MLB-1854302591-roteador-wi-fi-tp-link-ac1200-ec220-g5-gigabit-1200mbps-_JM,TP-Link
+DR4 300M,39.90,(1390),10,https://produto.mercadolivre.com.br/MLB-2797998321-roteador-repetidor-wireless-n-sinal-wifi-300mbps-branco-_JM,DHJ
+TL-WA850RE,144.90,(8811),16,https://produto.mercadolivre.com.br/MLB-2064920347-repetidor-de-sinal-wi-fi-tp-link-tl-wa850re-wireless-300mbps-_JM,TP-Link
+AC23,599.90,(54),17,https://produto.mercadolivre.com.br/MLB-1861498629-roteador-wifi-tenda-ac23-gigabit-7-antenas-6dbi-ac-2100mbps-_JM,Tenda
+EPRL12,619,(16),366,https://produto.mercadolivre.com.br/MLB-1368142729-roteador-externo-4g-3g-2g-elsys-amplimax-_JM,Elsys
+TL-WR,109.99,(384),7,https://produto.mercadolivre.com.br/MLB-1765265559-roteador-repetidor-wi-fi-tp-link-300mbps-wireless-2-antenas-_JM,TP-Link
+MW301R,103.90,(786),134,https://produto.mercadolivre.com.br/MLB-1069704411-roteador-wireless-tplink-mercusys-mw301r-300mbps-envio-24hs-_JM,Mercusys
+REPEATER,101.99,(4),60,https://produto.mercadolivre.com.br/MLB-2089906853-repetidor-extensor-sinal-wifi-internet-wireless-sem-fio-300m-_JM,cHENG
+TL,129.39,(4936),11,https://produto.mercadolivre.com.br/MLB-1244274277-repetidor-de-sinal-wi-fi-tp-link-ti-wa850re-original-_JM,TP-Link
+AP 310,999.99,(68),15,https://produto.mercadolivre.com.br/MLB-1855440080-roteador-access-point-teto-intelbras-ap-310-wi-fi-nternet-_JM,Intelbras
+APR-WR254,129.89,(13),7,https://produto.mercadolivre.com.br/MLB-2777240798-roteador-wireless-sem-fio-profissional-ap-router-wr254-_JM,AP Router
+LV-WR08,118.99,(240),159,https://produto.mercadolivre.com.br/MLB-1511259358-roteador-wireless-wifi-sem-fio-pixlink-300mbps-4-antenas-_JM,Pix-Link
+LV-WR09,89.90,(5358),22,https://produto.mercadolivre.com.br/MLB-1985598303-expansor-wireless-300m-internet-repetidor-de-sinal-wifi-_JM,Pix-Link
+Deco,2234.98,(71),8,https://produto.mercadolivre.com.br/MLB-2207608599-roteador-tp-link-deco-x60-v3-wi-fi-mesh-2un-verso-v3-bivolt-_JM,TP-Link
+Mi Router,132,(158),11,https://produto.mercadolivre.com.br/MLB-2080611320-roteador-xiaomi-mi-router-4a-wi-fi-1200mbps-_JM,Xiaomi
+MR,184.49,(20),6,https://produto.mercadolivre.com.br/MLB-1767832531-roteador-tp-link-portatil-modem-3g4g-wireless-tl-mr3020-_JM,TP-Link
+Parede,35.90,(12),457,https://produto.mercadolivre.com.br/MLB-1814125451-kit-3-suportes-de-parede-triangular-para-roteador-tp-link-m5-_JM,Impressionante3D
+AX3 Quad-Core,464,(253),178,https://produto.mercadolivre.com.br/MLB-1767813608-roteador-wifi-huawei-wifi-ax3-quad-core-original-_JM,Huawei
+Nest Wifi,3711,(23),8,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-access-point-google-nest-wifi-snow-220v-4-unidades/p/MLB16067273?pdp_filters=category:MLB5867,Google
+Cosmo,329.90,(413),20,https://produto.mercadolivre.com.br/MLB-1363376588-roteador-mesh-cosmo-dualband-5ghz-867mbps-24ghz-300mbps-_JM,Multilaser
+EC220-G5,248.48,(482),24,https://produto.mercadolivre.com.br/MLB-1670262743-roteador-tp-link-wireless-ac1200-dual-band-ec220-g5-_JM,TP-Link
+repetidor Wi-Fi,155.89,(15),200,https://produto.mercadolivre.com.br/MLB-1558249747-repetidor-de-sinal-wi-fi-e-extensor-pix-link-para-smart-tv-_JM,Pix-Link
+LV-WR09,96.90,(423),225,https://produto.mercadolivre.com.br/MLB-2692327436-repetidor-wifi-2800m-4-antenas-amplificador-de-sinal-premium-_JM,Pix-Link
+MW301R,75.04,(1268),27,https://produto.mercadolivre.com.br/MLB-1912606976-roteador-mercusys-mw301r-wireless-2-antenas-300mbps-_JM,Mercusys
+Archer,757.12,(143),13,https://produto.mercadolivre.com.br/MLB-2015103606-roteador-wifi-6-dual-band-gigabit-archer-ax50-_JM,TP-Link
+EWR-2N12,689,(17),295,https://produto.mercadolivre.com.br/MLB-1921728491-kit-amplimax-fit-elsys-link-4g-roteador-cabo-de-rede-30m-_JM,Elsys
+Deco,1764.94,(27),5,https://produto.mercadolivre.com.br/MLB-1912896150-roteador-tp-link-wireless-ac2200-cx-2-un-deco-m9-plus-_JM,TP-Link
+TL-WA850RE,188,(8811),473,https://produto.mercadolivre.com.br/MLB-1813469527-repetidor-de-sinal-sem-fio-wi-fi-300mbps-tp-link-tl-wa-850re-_JM,TP-Link
+2100 MBPS,295.59,(10),376,https://www.mercadolivre.com.br/roteador-greatek-gigabit-5-portas-ipv6-2100mbps-6-antenas-gwr2100ac/p/MLB19170981?pdp_filters=item_id:MLB2688728301,Greatek
+Archer,287,(721),43,https://produto.mercadolivre.com.br/MLB-2735093647-roteador-tp-link-wireless-wifi-archer-c5-ac1200-dual-band-gi-_JM,TP-Link
+LV-WR09,99.90,(5358),259,https://produto.mercadolivre.com.br/MLB-1935937044-repetidor-wifi-4-antenas-amplificador-sinal-2800m-original-_JM,Pix-Link
+Giga+,359,(312),152,https://produto.mercadolivre.com.br/MLB-2054654711-roteador-intelbras-twibi-giga-mesh-24-a-5-ghz-180m2-nfe-_JM,Intelbras
+RE015,199,(57),123,https://produto.mercadolivre.com.br/MLB-1738514914-roteador-wireless-ac1200-gigabit-re015-multilaser-_JM,Multilaser
+Deco,648.99,(10),17,https://produto.mercadolivre.com.br/MLB-2743136354-tp-link-deco-mesh-ac1200-branco-deco-m4-2-pack-_JM,TP-Link
+RF 301K,123.49,(1093),154,https://produto.mercadolivre.com.br/MLB-1971584691-roteador-wireless-intelbras-rf301k-300mbps-5-anos-garantia-_JM,Intelbras
+Omada,205.33,(49),2633,https://www.mercadolivre.com.br/access-point-indoor-tp-link-omada-eap115-branco/p/MLB7953374?pdp_filters=item_id:MLB1703212431,TP-Link
+Archer,228.90,(6703),627,https://produto.mercadolivre.com.br/MLB-1174925928-roteador-wireless-tp-link-archer-c60-dual-band-ac1350-com-nf-_JM,TP-Link
+Mini Repetidor Router,61.90,(9),240,https://produto.mercadolivre.com.br/MLB-1637378893-mini-repetidor-amplificador-de-sinal-wifi-router-extender-_JM,DAHORA
+WS5200,358,(185),114,https://produto.mercadolivre.com.br/MLB-2166619433-roteador-wireless-wi-fi-huawei-ws5200-gigabit-ac1300-_JM,Huawei
+Twibi Fast,379,(377),44,https://produto.mercadolivre.com.br/MLB-2180822452-conjunto-roteador-intelbras-mesh-twibi-fast-2-unidades-_JM,Intelbras
+Archer,298,(6703),73,https://produto.mercadolivre.com.br/MLB-1397948793-roteador-wi-fi-tp-link-archer-c60-dual-band-mu-mimo-ac1350-_JM,TP-Link
+Archer,498,(543),105,https://produto.mercadolivre.com.br/MLB-1850710158-roteador-wireless-wi-fi-tp-link-archer-c80-ac1900-dual-band-_JM,TP-Link
+Archer,548,(176),19,https://produto.mercadolivre.com.br/MLB-2030197781-roteador-gamer-tp-link-archer-ax10-gigabit-wi-fi-6-mu-mimo-_JM,TP-Link
+Kit Twibi Giga+,709,(412),25,https://produto.mercadolivre.com.br/MLB-2104815419-roteador-wi-fi-mesh-intelbras-twibi-giga-bivolt-2-unidades-_JM,Intelbras
+RE015,178,(57),11,https://produto.mercadolivre.com.br/MLB-2731882576-roteador-wireless-multilaser-re015-preto-_JM,Multilaser
+Deco,1050,(648),138,https://produto.mercadolivre.com.br/MLB-1900507972-access-point-roteador-wi-fi-mesh-tp-link-deco-m4-3-unid-_JM,TP-Link
+Deco,1375.45,(1235),232,https://produto.mercadolivre.com.br/MLB-1729421992-roteador-tp-link-mesh-wireless-ac1300-cx-3-un-deco-m5-_JM,TP-Link
+300mbps,119,(19),316,https://produto.mercadolivre.com.br/MLB-1702512226-kit-2-repetidor-amplificador-de-sinal-wifi-300mbps-botao-wps-_JM,7evenBrasil
+Deco,980,(108),40,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-access-point-roteador-wmm-tp-link-deco-deco-m5-v3-branco-220v-2-unidades/p/MLB18384166?pdp_filters=category:MLB5867,TP-Link
+Repeater,67.60,(21),482,https://produto.mercadolivre.com.br/MLB-2033272076-repetidor-de-sinal-wifi-2-antenas-1200mbps-amplificador-_JM,Ohpro
+nova MW6,509,(169),404,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-tenda-nova-mw6-branco-110v240v/p/MLB14051981?pdp_filters=category:MLB5867,Tenda
+MW301R,683.94,(1268),92,https://produto.mercadolivre.com.br/MLB-1364923566-kit-10-unidades-roteador-mercusys-300mbps-mw301r-_JM,Mercusys
+LV-WR09,87.11,(5358),1055,https://produto.mercadolivre.com.br/MLB-1205160990-repetidor-wi-fi-roteador-wireless-2800mts-4-antenas-wifi-_JM,Pix-Link
+Deco,539,(1235),23,https://produto.mercadolivre.com.br/MLB-2642299708-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+Twibi Fast,269.90,(339),65,https://produto.mercadolivre.com.br/MLB-1981630045-roteador-twibi-fast-sistema-wifi-mesh-intelbras-bivolt-_JM,Intelbras
+Deco,2978.42,(27),16,https://produto.mercadolivre.com.br/MLB-2065812550-tp-link-deco-m9-plus-3-pack-mesh-wi-fi-ac2200-tri-band-v2-_JM,TP-Link
+elsys 4g,606,(283),5169,https://produto.mercadolivre.com.br/MLB-871937836-link-4g-amplimax-elsys-internet-e-celular-rural-_JM,Elsys
+MW301R,67.34,(1268),2616,https://produto.mercadolivre.com.br/MLB-1285656725-roteador-mercusys-300mbps-mw301r-_JM,Mercusys
+Archer,2590,(5),104,https://www.mercadolivre.com.br/access-point-roteador-bridge-tp-link-archer-ax11000-v1-preto-e-vermelho-220v/p/MLB17899491?pdp_filters=category:MLB5867,TP-Link
+DR4 300M,50.25,(1390),1281,https://produto.mercadolivre.com.br/MLB-1699266495-roteador-repetidor-wireless-n-sinal-wifi-repeater-300mbps-_JM,DHJ
+TL-MR3020,177.88,(21),1081,https://produto.mercadolivre.com.br/MLB-713548898-mini-roteador-3g4g-wireless-portatil-tp-link-tl-mr3020-wifi-_JM,TP-Link
+Deco,1399,(108),6,https://produto.mercadolivre.com.br/MLB-2808330236-access-point-roteador-wmm-tp-link-deco-m5-caixa-com-3un-_JM,TP-Link
+Deco,461,(108),13,https://produto.mercadolivre.com.br/MLB-2713726685-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+RE015,145,(57),4,https://produto.mercadolivre.com.br/MLB-2828104259-roteador-wireless-ac1200-gigabit-re015-multilaser-_JM,Multilaser
+Cosmo,329.90,(413),9,https://produto.mercadolivre.com.br/MLB-2040358864-roteador-mesh-cosmo-ac1200-2-pecas-dual-band-_JM,Multilaser
+RE707V,99,(4),115,https://produto.mercadolivre.com.br/MLB-2199819810-roteador-300-mbps-2-antenas-ipv6-re707-multilaser-_JM,Multilaser
+1200,81.50,(5),103,https://produto.mercadolivre.com.br/MLB-1317754088-repetidor-de-sinal-wifi-2-antenas-1200mbps-amplia-wireless-_JM,wirelles-sn
+nova MW6,1065,(169),1,https://produto.mercadolivre.com.br/MLB-2831118265-sistema-wi-fi-mesh-tenda-nova-mw6-branco-110v240v-3-un-_JM,Tenda
+Deco,24.50,(5),186,https://produto.mercadolivre.com.br/MLB-1800699731-suporte-de-parede-roteador-rede-tp-link-deco-ac1200-dual-m4-_JM,1KOISAS3D
+"Repetidor Wifi, Repetidor Roteador",80.65,(4),73,https://produto.mercadolivre.com.br/MLB-2618382849-repetidor-roteador-de-sinal-600mbps-wifi-envio-imediato-nf-_JM,Wireless-n Repeater
+RF 301K,124.90,(858),67,https://produto.mercadolivre.com.br/MLB-2073464605-roteador-wireless-intelbras-rf-301k-_JM,Intelbras
+EC220-G5,257.99,(296),10,https://produto.mercadolivre.com.br/MLB-2610199734-roteador-wireless-gigabit-dual-band-ac1200-ec220-g5-_JM,TP-Link
+WIFI-LV-WR09,89.19,(5358),53,https://produto.mercadolivre.com.br/MLB-1200275620-repetidor-wireless-roteador-wi-fi-4-antenas-2800m-_JM,Pix-Link
+RE505X,474.99,(30),208,https://produto.mercadolivre.com.br/MLB-1800805107-repetidor-de-sinal-tp-link-re505x-ax1500-wi-fi-6-one-mesh-_JM,TP-Link
+APROUTER1800,76.11,(9),185,https://produto.mercadolivre.com.br/MLB-1915775280-repetidor-sinal-wireless-wifi-extensor-potente-900mbps-wi-fi-_JM,Kapbom
+DIR-842,227.99,(816),39,https://produto.mercadolivre.com.br/MLB-1902874404-roteador-d-link-dir-842-preto-100v240v-_JM,D-Link
+"Repetidor de Sinal Wifi, Internet Wifi Kit 5ghz 5g Roteador Wifi",283.90,(928),278,https://produto.mercadolivre.com.br/MLB-1549675943-repetidor-expansor-de-sinal-tp-link-re200-dual-band-245ghz-_JM,TP-Link
+AC1200,289.88,(738),296,https://produto.mercadolivre.com.br/MLB-1081333217-repetidor-sinal-wi-fi-tp-link-re305-dual-band-ac1200-867mbps-_JM,TP-Link
+T90,68.90,(9),416,https://produto.mercadolivre.com.br/MLB-1390758453-repetidor-t90-ampliador-de-sinal-wireless-300mbps-sjuros-_JM,WIRELESS QUALITY
+RE305,380,(6),11,https://produto.mercadolivre.com.br/MLB-1773713333-repetidor-expansor-tp-link-wi-fi-network-1200mbps-re305-_JM,TP-Link
+300Mb,65,(159),4856,https://produto.mercadolivre.com.br/MLB-1931273279-repetidor-amplificador-de-sinal-wifi-ultra-rapido-_JM,CXegou
+REPETIDOR WIFI,50.99,(228),5435,https://produto.mercadolivre.com.br/MLB-1693265468-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-_JM,CPX
+Deco,1845.55,(27),26,https://produto.mercadolivre.com.br/MLB-2135896122-roteador-mesh-tp-link-deco-m9-plus-ac2200-triband-pack-2-v2-_JM,TP-Link
+TL-WA850RE,147.30,(8811),60,https://produto.mercadolivre.com.br/MLB-1772544210-repetidor-wireless-300mbps-tp-link-tl-wa850re-wifi-expansor-_JM,TP-Link
+RE017,309.90,(30),362,https://www.mercadolivre.com.br/access-point-repetidor-roteador-multilaser-re017-preto/p/MLB15350770?pdp_filters=category:MLB5867,Multilaser
+Archer,299,(382),11,https://produto.mercadolivre.com.br/MLB-2779612224-roteador-tp-link-archer-c6-wireless-gigabit-mu-mimo-ac1200-_JM,TP-Link
+REPEATER,109,(17),231,https://produto.mercadolivre.com.br/MLB-2065669278-repetidor-sinal-sem-fio-alta-velocidade-longa-distancia-wifi-_JM,cHENG
+TL-WR829N,108.99,(470),159,https://produto.mercadolivre.com.br/MLB-1797731250-roteador-wireless-multimodo-4-em-1-300mbps-tl-wr829n-tp-link-_JM,TP-Link
+Repitidor 4 Antenas,85.99,(5358),36,https://produto.mercadolivre.com.br/MLB-2730870600-repetidor-wifi-2800m-4-antenas-amplificador-de-sinal-lv-wr09-_JM,Pix-Link
+RE200,179,(928),89,https://produto.mercadolivre.com.br/MLB-1863502435-tplink-repetidor-de-sinal-wi-fi-dual-band-ac750-re200-_JM,TP-Link
+Archer,435,(284),83,https://produto.mercadolivre.com.br/MLB-1971102859-roteador-archer-c7-ac-1750-3-antena-mesh-wi-fi-full-gigabit-_JM,TP-Link
+Wi-Fi repeater,65.90,(5),160,https://produto.mercadolivre.com.br/MLB-1834610654-repetidor-roteador-de-sinal-600mbps-wifi-pronta-entrega-_JM,Wireless-n Repeater
+LV-WR09,74.99,(5358),100,https://produto.mercadolivre.com.br/MLB-2655439943-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-pixlink-_JM,Pix-Link
+Twibi Fast,259.80,(339),68,https://produto.mercadolivre.com.br/MLB-1871176828-roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-100v240v-_JM,Intelbras
+Deco,1389,(1235),10,https://produto.mercadolivre.com.br/MLB-2222416435-roteadorwi-fi-mesh-tp-link-deco-m5-branco-pack-3-_JM,TP-Link
+Deco,1099.23,(1235),97,https://produto.mercadolivre.com.br/MLB-2001096990-roteador-tp-link-deco-m5-ac1300-dual-band-mesh-gigabit-2pack-_JM,TP-Link
+B681,399,(7),445,https://produto.mercadolivre.com.br/MLB-1479214389-modem-roteador-b681-wifi-3g-2g-chip-entrada-antena-rural-_JM,Huawei
+LV-WR09,94.90,(5358),317,https://produto.mercadolivre.com.br/MLB-1986815033-repetidor-wifi-4-antenas-amplificador-de-sinal-500mbs-link-_JM,Pix-Link
+TL-WA850RE,159.99,(8811),14,https://produto.mercadolivre.com.br/MLB-2097219352-repetidor-sinal-wi-fi-300mbps-tp-link-n300-tl-wa850re-v7-_JM,TP-Link
+Deco,579,(1235),6,https://produto.mercadolivre.com.br/MLB-2712188839-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-_JM,TP-Link
+MW300RE,105.90,(192),145,https://produto.mercadolivre.com.br/MLB-1636577734-repetidor-mercusys-wi-fi-300mbps-mw300re-_JM,Mercusys
+Mi,569.05,(80),27,https://produto.mercadolivre.com.br/MLB-2203819615-roteador-xiaomi-mi-router-ax3000-wi-fi-6-meshlacrado-_JM,Xiaomi
+Mi,123.40,(1074),40,https://produto.mercadolivre.com.br/MLB-1918739692-expansor-amplificador-de-sinal-wifi-melhora-a-conexo-cnf-_JM,Xiaomi
+Archer,423.80,(721),20,https://produto.mercadolivre.com.br/MLB-1208609540-roteador-wireless-tp-link-gigabit-dual-band-ac1200-archer-c5-_JM,TP-Link
+repeater,99,(6),208,https://produto.mercadolivre.com.br/MLB-1866818061-roteador-repetidor-wireless-sinal-wifi-1800mbps-original-_JM,wifi
+Mi,979,(28),33,https://produto.mercadolivre.com.br/MLB-1795896057-roteador-xiaomi-mi-ax6000-wifi6-mesh-2976mbps-ofdma-wpa3-_JM,Xiaomi
+ACtion,181,(1809),14,https://produto.mercadolivre.com.br/MLB-2679798863-roteador-wireless-smart-dual-band-24-ghz-rf1200-4-antenas-_JM,Intelbras
+WS5800,799,(44),72,https://produto.mercadolivre.com.br/MLB-1682747778-roteador-wifi-huawei-wifi-mesh-2-pack-original-_JM,Huawei
+Deco,1539.23,(108),18,https://produto.mercadolivre.com.br/MLB-2601599011-roteador-tp-link-deco-m5-ac1300-dual-band-mesh-gigabit-3pack-_JM,TP-Link
+Wireless,78.99,(54),970,https://produto.mercadolivre.com.br/MLB-696340210-repetidor-expansor-wifi-sinal-wireless-antena-sinal-internet-_JM,virtual kar
+LV-WR09,104.90,(423),38,https://produto.mercadolivre.com.br/MLB-2667479981-repetidor-wi-fi-4-antenas-amplificador-de-sinal-tomada-_JM,Pix-Link
+TL-WA850RE,150,(8811),73,https://produto.mercadolivre.com.br/MLB-756319083-tp-link-850re-repetidor-de-sinal-wireless-300mbps-_JM,TP-Link
+Deco,2840,(27),31,https://produto.mercadolivre.com.br/MLB-2072420251-tp-link-deco-m9-plus-mesh-wi-fi-ac2200-tri-band-3unidades-_JM,TP-Link
+TL,129.49,(4936),26,https://produto.mercadolivre.com.br/MLB-1244266600-repetidor-de-sinal-wi-fi-tp-link-ti-wa850re-promoco-_JM,TP-Link
+WS5800,1068,(44),3,https://produto.mercadolivre.com.br/MLB-2739722653-huawei-ac-wifi6mesh3-router-ws8100-ax3000-giga-245ghz-kit-_JM,Huawei
+Deco,3298,(71),36,https://produto.mercadolivre.com.br/MLB-1889938811-kit-3-roteadores-sistema-mesh-wifi-6-tp-link-deco-x60-ax3000-_JM,TP-Link
+Archer,309.90,(5),484,https://produto.mercadolivre.com.br/MLB-2709691158-roteador-tp-link-archer-c6-wireless-gigabit-mimo-ac1200-v30-_JM,TP-Link
+Omada,210.93,(48),2255,https://www.mercadolivre.com.br/access-point-indoor-tp-link-omada-eap110-branco/p/MLB15354537?pdp_filters=item_id:MLB1725078624,TP-Link
+Mi,138.69,(271),32,https://produto.mercadolivre.com.br/MLB-2080535521-roteador-wi-fi-mi-router-4a-xiaomi-1200mbps-_JM,Xiaomi
+Deco,31.90,(17),661,https://produto.mercadolivre.com.br/MLB-1789954646-kit-3-suportes-de-parede-para-roteador-tplink-deco-m5-branco-_JM,TP-Link
+Mi,1034.55,(4),56,https://produto.mercadolivre.com.br/MLB-2166710979-kit-2x-roteador-xiaomi-mi-router-ax3000-wifi-6-mesh-original-_JM,Xiaomi
+Mi,2099,(28),1,https://produto.mercadolivre.com.br/MLB-2836745820-kit-3x-roteador-xiaomi-mi-router-2-ax3000-e-1-ax6000-wifi-6-_JM,Xiaomi
+Archer,410.95,(17),277,https://www.mercadolivre.com.br/roteador-access-point-tp-link-archer-c1200-preto/p/MLB13987150?pdp_filters=category:MLB5867,TP-Link
+Mi,78.36,(1074),198,https://produto.mercadolivre.com.br/MLB-1921106798-repetidor-xiaomi-mi-pro-300m-preto-100v240v-_JM,Xiaomi
+LV-WR09,94.90,(5358),409,https://produto.mercadolivre.com.br/MLB-2717114069-repetidor-wifi-2800m-4-antenas-amplificador-de-sinal-_JM,Pix-Link
+LV-WR09,99.90,(423),37,https://produto.mercadolivre.com.br/MLB-2198397676-repetidor-4-antenas-pixlink-2800m-aumenta-sinal-wifi-rapido-_JM,Pix-Link
+Orbi,2222.05,(7),58,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-netgear-orbi-rbk50-branco-2-unidades/p/MLB9141031?pdp_filters=category:MLB5867,Netgear
+DIR-853,459.99,(154),131,https://produto.mercadolivre.com.br/MLB-1403041886-roteador-d-link-ac1300-dir-853-dual-band-7dbi-gigabit-ipv6-_JM,D-Link
+Archer,240,(4),136,https://produto.mercadolivre.com.br/MLB-1397941050-roteador-tp-link-archer-c50-wi-fi-ac1200-check-in-facebook-_JM,TP-Link
+TL-WPA4220KIT,452.90,(85),732,https://www.mercadolivre.com.br/adaptador-powerline-tp-link-tl-wpa4220kit-v5-branco-220v-2-unidades/p/MLB18428217?pdp_filters=category:MLB5867,TP-Link
+Deco,1999,(71),15,https://produto.mercadolivre.com.br/MLB-2166740941-access-point-roteador-wmm-tp-link-deco-x60-v3-2-unidades-_JM,TP-Link
+Deco,1579,(58),5,https://produto.mercadolivre.com.br/MLB-2663090210-access-point-sistema-wi-fi-mesh-decox20-branco-2-unid-_JM,TP-Link
+TL-WR841HP,389,(2089),332,https://produto.mercadolivre.com.br/MLB-1100661042-rot-wireless-quebra-parede-tl-wr-841hp-1000mw-ant-8dbi-nf-_JM,TP-Link
+Mi,531,(80),799,https://www.mercadolivre.com.br/roteador-xiaomi-mi-ax1800-preto/p/MLB18621942?pdp_filters=category:MLB5867,Xiaomi
+A9,112.13,(42),544,https://www.mercadolivre.com.br/access-point-repetidor-tenda-a9-branco/p/MLB10696110?pdp_filters=category:MLB5867,Tenda
+MW300RE,115,(154),6,https://produto.mercadolivre.com.br/MLB-1898128898-repetidor-sinal-wi-fi-mercusys-mw300re-300mbps-3-antenas-_JM,Mercusys
+MW301R,75.04,(1268),205,https://produto.mercadolivre.com.br/MLB-1912594329-roteador-mercusys-wireless-n-300mbps-mw301r-_JM,Mercusys
+Deco,715,(6),107,https://produto.mercadolivre.com.br/MLB-1900508101-access-point-roteador-wi-fi-mesh-tp-link-deco-m4-2-unid-_JM,TP-Link
+Deco,3198,(71),13,https://produto.mercadolivre.com.br/MLB-2047718729-roteador-sistema-mesh-wi-fi-6-tp-link-deco-x60-ax3000-pack-3-_JM,TP-Link
+TL-WA855RE V4,155.90,(337),115,https://produto.mercadolivre.com.br/MLB-1696541655-repetidor-de-sinal-tp-link-wifi-300mbps-2-antenas-tl-wa855re-_JM,TP-Link
+AC1750,454.90,(1152),186,https://produto.mercadolivre.com.br/MLB-1193968715-repetidor-tp-link-tl-re450-ac1750-dual-band-com-nota-fiscal-_JM,TP-Link
+LV-WR09,118.90,(5358),495,https://produto.mercadolivre.com.br/MLB-1390840217-repetidor-roteador-pixlink-wireless-4-antenas-2800m-wi-fi-_JM,Pix-Link
+Deco,499,(1235),14,https://produto.mercadolivre.com.br/MLB-2676439912-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-branco-100v240v-_JM,TP-Link
+MW301R rotiador multiplicador de sinal molden wi fi 300 mbps longo alcance,83.48,(1268),16,https://produto.mercadolivre.com.br/MLB-2691974434-roteador-mercusys-wireless-n-300-mbps-mw301r-2antenas-bivolt-_JM,Mercusys
+TL-MR3020,218,(9),1141,https://produto.mercadolivre.com.br/MLB-1079295738-mini-roteador-wi-fi-portatil-3g4g-tplink-tl-mr3020-_JM,TP-Link
+Deco,990,(1235),70,https://produto.mercadolivre.com.br/MLB-1909485171-access-point-roteador-wi-fi-mesh-tp-link-deco-m5-bivolt-2-pc-_JM,TP-Link
+Mi,528,(22),359,https://produto.mercadolivre.com.br/MLB-2007352427-roteador-xiaomi-mi-router-ax3000-wi-fi-6-mesh-_JM,Xiaomi
+Archer,250,(341),4119,https://www.mercadolivre.com.br/roteador-tp-link-archer-c5-v4-branco/p/MLB15982162?pdp_filters=category:MLB5867,TP-Link
+Mi,97.72,(1074),16,https://produto.mercadolivre.com.br/MLB-2794343742-roteador-repetidor-sinal-wireles-xiaomi-mi-wifi-extender-pro-_JM,Xiaomi
+TL-WA855RE,169.89,(12),93,https://produto.mercadolivre.com.br/MLB-1524793869-repetidor-de-sinal-wireless-wi-fi-300mbps-tp-link-ti-wa855re-_JM,TP-Link
+Archer,437,(176),17,https://produto.mercadolivre.com.br/MLB-2621787738-roteador-wmm-tp-link-archer-ax10-wi-fi-6-gigabit-110v220v-_JM,TP-Link
+Wi-Fi repeater,109,(19),506,https://produto.mercadolivre.com.br/MLB-1921693694-repetidor-wi-fi-900mbps-sem-fio-amplificador-wireless-_JM,Wireless-n Repeater
+Pro,149.99,(423),2,https://produto.mercadolivre.com.br/MLB-1882441676-repetidor-de-sinal-wifi-sem-fio-wireless-melhore-seu-wi-fi-_JM,Xiaomi
+TL-WA850RE,178,(8811),479,https://produto.mercadolivre.com.br/MLB-1887720712-repetidor-expansor-de-sinal-wi-fi-tp-link-wa850re-300mbps-_JM,TP-Link
+DIR-842,213.74,(816),159,https://produto.mercadolivre.com.br/MLB-1902887301-roteador-wireless-d-link-ac1200-dir-842-dual-band-gigabit-_JM,D-Link
+Archer,190.90,(44),49,https://produto.mercadolivre.com.br/MLB-2049840295-roteador-tplink-archer-c54-roteador-wi-fi-dual-band-ac1200-_JM,TP-Link
+MW301R,75.04,(1268),528,https://produto.mercadolivre.com.br/MLB-1912698848-roteador-wireless-tplink-mercusys-mw301r-300mbps-envio-24hs-_JM,Mercusys
+GF 1200,199.99,(175),103,https://produto.mercadolivre.com.br/MLB-2168566913-roteador-intelbras-wireless-gf-1200-4-portas-dual-wi-force-_JM,Intelbras
+300mbps,54.99,(7),88,https://produto.mercadolivre.com.br/MLB-2008931854-aumentar-sinal-wifi-300mbps-roteador-internet-superinfo-_JM,SUPERINFO
+300mbps,58.99,(336),9557,https://produto.mercadolivre.com.br/MLB-1702490266-repetidor-amplificador-de-sinal-wifi-300mbps-botao-wps-_JM,7evenBrasil
+W4-300F,124.42,(25),55,https://produto.mercadolivre.com.br/MLB-2218457839-roteador-wifi-300mbps-intelbras-wi-force-w4-300f-_JM,Intelbras
+Archer,179.22,(1235),26575,https://www.mercadolivre.com.br/roteador-access-point-wds-bridge-wmm-tp-link-archer-c50-v4-branco-220v/p/MLB15304684?pdp_filters=item_id:MLB1703252981,TP-Link
+Powerline,449.95,(85),10,https://produto.mercadolivre.com.br/MLB-1298599191-wpa4220-kit-tp-link-starter-kit-powerline-av600-wireless-_JM,TP-Link
+Deco,1119,(648),12,https://produto.mercadolivre.com.br/MLB-1544849294-roteador-mesh-tp-link-deco-m4-3-pack-ac1200-wifi-sj-_JM,TP-Link
+Archer,227.04,(126),2420,https://www.mercadolivre.com.br/roteador-access-point-tp-link-archer-c50-v1-4-antenas-branco-220v/p/MLB17894917?pdp_filters=category:MLB5867,TP-Link
+TL-WR829N roteador e repetidor de sinal longo alcance wi fi,100.76,(34),6,https://produto.mercadolivre.com.br/MLB-2697722555-roteador-wireless-tl-wr829n-4-em-1-bivolt-2-antenas-tplink-_JM,TP-Link
+Deco,1006,(648),3,https://produto.mercadolivre.com.br/MLB-2204454573-tp-link-deco-_JM,TP-Link
+Deco,948,(449),8,https://produto.mercadolivre.com.br/MLB-1725160931-roteador-wi-fi-mesh-tp-link-deco-e4-ac1200-mumimo-pack-com-3-_JM,TP-Link
+TL-WA850RE,144.99,(8811),26,https://produto.mercadolivre.com.br/MLB-2614301257-repetidor-de-sinal-wireless-tp-link-300mbps-tl-wa850re-_JM,TP-Link
+Omada,687.66,(20),1135,https://www.mercadolivre.com.br/access-point-outdoor-wmm-tp-link-omada-eap225-outdoor-v1-branco-220v/p/MLB18459896?pdp_filters=item_id:MLB1968304069,TP-Link
+Nest Wifi,1231.12,(23),13,https://produto.mercadolivre.com.br/MLB-1978969948-google-nest-wifi-roteador-mesh-ac2200-2nd-gen-com-nf-_JM,Google
+Deco,930.07,(449),14,https://produto.mercadolivre.com.br/MLB-1735640502-access-point-roteador-sistema-wi-fi-mesh-tp-link-deco-e4-_JM,TP-Link
+Nest Wifi,2023.12,(23),10,https://produto.mercadolivre.com.br/MLB-2012186146-google-nest-wifi-roteador-mesh-ac2200-kit-c-2-unidades-_JM,Google
+Deco,1895.64,(27),27,https://produto.mercadolivre.com.br/MLB-2042465966-roteador-mesh-tp-link-deco-m9-plus-branco-2-unidades-_JM,TP-Link
+LV-WR09,99,(423),6,https://produto.mercadolivre.com.br/MLB-2061451782-repetidor-wifi-2800m-4-antenas-sem-fio-de-sinal-lv-wr09-_JM,Pix-Link
+TL-WA850RE,144.90,(8811),55,https://produto.mercadolivre.com.br/MLB-2064944307-repetidor-de-sinal-wi-fi-tp-link-tl-wa850re-wireless-300mbps-_JM,TP-Link
+Omada,214.79,(49),3,https://produto.mercadolivre.com.br/MLB-2039580299-access-point-montavel-em-teto-wireless-n-eap115-300mbps-_JM,TP-Link
+DR4 300M,50.99,(49),892,https://produto.mercadolivre.com.br/MLB-1745240963-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-_JM,DHJ
+Twibi Giga,397,(454),22,https://produto.mercadolivre.com.br/MLB-1875829340-1-roteador-wi-fi-mesh-intelbras-twibi-giga-original-intelbra-_JM,Intelbras
+DIR-846,298,(220),4,https://produto.mercadolivre.com.br/MLB-2741477216-roteador-d-link-dir-846-wireless-100v240v-_JM,D-Link
+Repetidor 4 Antenas,97.99,(77),1841,https://produto.mercadolivre.com.br/MLB-1856997786-repetidor-wi-fi-mini-roteador-wireless-4-antenas-2800m-_JM,IMPORTADS
+Deco,3040,(71),5,https://produto.mercadolivre.com.br/MLB-2176029734-sistema-wi-fi-mesh-roteador-wmm-tp-link-deco-x60-c-3-unid-_JM,TP-Link
+Deco,924.21,(1235),3,https://produto.mercadolivre.com.br/MLB-2757370307-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-100v240v-2-un-_JM,TP-Link
+Roteadores Wi-Fi,468.36,(11),214,https://produto.mercadolivre.com.br/MLB-1811823034-kit-roteador-extensor-wi-fi-mesh-deco-e3-bivolt-tp-link-_JM,TP-Link
+Kit Twibi Fast,466.65,(377),134,https://produto.mercadolivre.com.br/MLB-1492714618-kit-2-roteador-wifi-mesh-twibi-fast-intelbras-alcance-200m2-_JM,Intelbras
+TL-WR840N,118.79,(2505),32,https://produto.mercadolivre.com.br/MLB-1929158600-roteador-wireless-tp-link-n-300mbps-tl-wr840n-_JM,TP-Link
+A9,144.82,(34),4,https://produto.mercadolivre.com.br/MLB-2667213729-repetidor-extensor-de-alcance-universal-wifi-300mbps-a9-_JM,Tenda
+300mbps,89.99,(7),51,https://produto.mercadolivre.com.br/MLB-2042137554-wifi-sinal-300m-wireless-n-amplificador-_JM,Repeater
+TL-WA850RE,156.15,(4936),9,https://produto.mercadolivre.com.br/MLB-2076258188-repetidor-expansor-tp-link-wi-fi-network-300mbps-tl-wa850re-_JM,TP-Link
+Deco,516.88,(1235),2,https://produto.mercadolivre.com.br/MLB-2220580843-access-point-roteador-wi-fi-mesh-tp-link-deco-m5-100v240v-_JM,TP-Link
+LV-WR09,104.90,(423),9,https://produto.mercadolivre.com.br/MLB-2691588184-repetidor-wifi-4-antenas-amplificador-de-sinal-2800m-pixlink-_JM,Pix-Link
+Deco,1177.81,(648),2,https://produto.mercadolivre.com.br/MLB-1723656076-roteador-tp-link-sistema-wi-fi-mesh-ac1200-deco-m4-3-pack-_JM,TP-Link
+Parede,28.90,(15),335,https://produto.mercadolivre.com.br/MLB-1814130704-kit-2-suportes-de-parede-triangular-para-roteador-tp-link-m5-_JM,Impressionante3D
+Reteador,103.40,(118),17,https://produto.mercadolivre.com.br/MLB-1356103173-roteador-wifi-300mbps-n301-tenda-_JM,Tenda
+Mi,219.49,(7),74,https://produto.mercadolivre.com.br/MLB-2178282091-repetidor-sinal-wifi-xiaomi-range-extender-ac1200-ra75-nf-_JM,Xiaomi
+TL-WR849N,420,(3587),288,https://produto.mercadolivre.com.br/MLB-1141001523-roteador-wireless-n-300mbps-tl-wr849n-tplink-_JM,TP-Link
+Mi,169.49,(39),15,https://produto.mercadolivre.com.br/MLB-2660422430-repetidor-wifi-mi-range-extender-ac1200-_JM,Xiaomi
+ACtion,389.99,(2204),7,https://produto.mercadolivre.com.br/MLB-2128481335-rg1200-roteador-wifi-gigabit-intelbras-potente-quebra-parede-_JM,Intelbras
+MW325R,122.90,(121),22,https://produto.mercadolivre.com.br/MLB-2067004756-roteador-wireless-mercusys-mw325r-n-300mbps-4-antenas-_JM,Mercusys
+DR4,78.80,(208),4243,https://produto.mercadolivre.com.br/MLB-916551136-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-_JM,Haiz
+Archer,1970,(88),2,https://produto.mercadolivre.com.br/MLB-1805272495-roteador-tp-link-archer-ax6000-ultima-geraco-_JM,TP-Link
+EXO,499,(21),379,https://www.mercadolivre.com.br/sistema-wi-fi-mesh-roteador-d-link-exo-dir-1360-preto-100v240v/p/MLB16193331?pdp_filters=category:MLB5867,D-Link
+Mi,188.10,(271),8,https://produto.mercadolivre.com.br/MLB-2195446228-roteador-wireless-xiaomi-mi-4a-ac1200-dvb4230gl-dual-band-_JM,Xiaomi
+DRA-1360,281,(9),10,https://produto.mercadolivre.com.br/MLB-2663201592-sistema-wi-fi-mesh-repetidor-d-link-dra-1360-110v240v-_JM,D-Link
+Roteador 4G,738.45,(4),97,https://produto.mercadolivre.com.br/MLB-1264563139-modem-roteador-wifi-wld71-t5-vivo-box-3g-4g-rural-para-chip-_JM,WNC
+Deco,374,(648),2,https://produto.mercadolivre.com.br/MLB-2718882345-access-point-roteador-tp-link-deco-m4-wi-fi-mesh-dual-band-_JM,TP-Link
+Giga+,389,(312),43,https://produto.mercadolivre.com.br/MLB-2054686549-roteador-intelbras-twibi-giga-mesh-24-a-5-ghz-180m2-nfe-_JM,Intelbras
+Archer,397,(543),5,https://produto.mercadolivre.com.br/MLB-2808140828-roteador-tp-link-archer-c80-gigabit-wireless-mu-mimo-ac1900-_JM,TP-Link
+Twibi Fast,217.90,(214),12,https://produto.mercadolivre.com.br/MLB-2670285764-roteador-sistema-wi-fi-mesh-intelbras-twibi-fast-_JM,Intelbras
+Archer,284.90,(1235),6,https://produto.mercadolivre.com.br/MLB-2176966428-roteador-wireless-tp-link-ac-1200-dual-band-c50-archer-_JM,TP-Link
+Archer,245,(81),6,https://produto.mercadolivre.com.br/MLB-2760679860-roteador-wireless-tp-link-archer-c60-dual-band-ac1350-branco-_JM,TP-Link
+Omada,248,(49),3,https://produto.mercadolivre.com.br/MLB-2116324456-access-point-indoor-tp-link-eap115-24ghz-300mbps-wireless-_JM,TP-Link
+LV-WR09,109.90,(5358),61,https://produto.mercadolivre.com.br/MLB-1935945474-repetidor-wifi-4-antenas-amplificador-sinal-2800m-original-_JM,Pix-Link
+TL-MR3420,210,(47),5,https://produto.mercadolivre.com.br/MLB-1787455011-tl-mr3420-tp-link-wi-fi-sfio-300mb-roteador-2-antenas-_JM,TP-Link
+Deco,495,(1235),50,https://produto.mercadolivre.com.br/MLB-1825385965-access-point-roteador-sistema-mesh-wi-fi-tp-link-deco-m5-_JM,TP-Link
+LV-WR09,99,(5358),11,https://produto.mercadolivre.com.br/MLB-2085691335-roteador-repetidor-wifi-pix-link-branco-100v240v-4-antenas-_JM,Pix-Link
+Archer,343,(382),157,https://produto.mercadolivre.com.br/MLB-2202453521-roteador-tp-link-wireless-gigabit-mu-mimo-ac1200-archer-c6-_JM,TP-Link
+Auranet EAP,1200,(18),4,https://produto.mercadolivre.com.br/MLB-1799312868-access-point-wireless-gigabit-montavel-em-teto-ac1750-eap245-_JM,TP-Link
+Deco,1998,(58),31,https://produto.mercadolivre.com.br/MLB-1961964479-roteador-mesh-tp-link-deco-x20-ax1800-wi-fi-6-2-pack-_JM,TP-Link
+LV-WR09,114.97,(5358),22,https://produto.mercadolivre.com.br/MLB-1621303002-repetidor-roteador-de-sinal-wi-fi-300mbps-50-metros-pix-link-_JM,Pix-Link
+TL-WA850RE,155.55,(8811),3,https://produto.mercadolivre.com.br/MLB-1835739374-repetidor-wi-fi-n-300mbps-tl-wa850re-tp-link-_JM,TP-Link
+Archer,352.50,(1235),1024,https://produto.mercadolivre.com.br/MLB-1691457334-roteador-wi-fi-4-antenas-dual-band-archer-c50-ac1200-tp-link-_JM,TP-Link
+DAP-1325,128,(362),1,https://produto.mercadolivre.com.br/MLB-2820518591-repetidor-wi-fi-d-link-dap-1325-300mbps-c-wpsrj45-_JM,D-Link
+LV-WR09,95.90,(5358),136,https://produto.mercadolivre.com.br/MLB-1362417961-repetidor-wifi-4-antenas-pixlink-ampliador-de-sinal-1200mb-_JM,Pix-Link
+MW301R,88.73,(1268),737,https://produto.mercadolivre.com.br/MLB-1285659344-roteador-mercusys-300mbps-mw301r-_JM,Mercusys
+AC12G,217.55,(671),3,https://produto.mercadolivre.com.br/MLB-2057167350-roteador-wifi-mercusys-ac12g-gigabit-dual-band-4-antenas-_JM,Mercusys
+2100 MBPS,365,(8),30,https://produto.mercadolivre.com.br/MLB-2168031733-roteador-mont-wifi-5-portas-101001000-ipv6-2100mbps-_JM,Greatek
+Duas Antenas,103.99,(10),198,https://produto.mercadolivre.com.br/MLB-1626053543-repetidor-sinal-wifi-duas-antenas-1200m-24-ghz-pentrega-_JM,New
+Deco,1389.99,(1235),8,https://produto.mercadolivre.com.br/MLB-1693629805-roteador-tp-link-deco-m5-ac1300-wireless-3-pack-cnfe-_JM,TP-Link
+Deco,1128.02,(1235),1,https://produto.mercadolivre.com.br/MLB-2757376684-roteador-sistema-wi-fi-mesh-tp-link-deco-m5-100v240v-2-un-_JM,TP-Link
+MW301R,109.99,(1268),214,https://produto.mercadolivre.com.br/MLB-1428945501-roteador-wireless-mercusys-mw301r-300mbps-_JM,Mercusys
+Parede,19.90,(8),593,https://produto.mercadolivre.com.br/MLB-1814114113-suporte-de-parede-triangular-para-roteador-tp-link-m5-oferta-_JM,TP-Link
+Deco,1519,(108),5,https://produto.mercadolivre.com.br/MLB-1322445868-roteador-mesh-tp-link-deco-m5-3-pack-ac1300-wifi-_JM,TP-Link
+Repetidor WiFi,55,(45),1292,https://produto.mercadolivre.com.br/MLB-1182729261-repetidor-expansor-de-sinal-wifi-roteador-t25-pronta-entrega-_JM,BAISEC
+Expandir Sinal Wifi,64.54,(41),514,https://produto.mercadolivre.com.br/MLB-1065713395-repetidor-wifi-repeater-300mbps-amplificador-wireless-n-_JM,Kapbom
+TL-WA855RE,269,(1816),1,https://produto.mercadolivre.com.br/MLB-2771330467-repetidor-de-sinal-tl-wa855re-tp-link-300mbps-wi-fi-_JM,TP-Link
+Deco,1638.91,(58),5,https://produto.mercadolivre.com.br/MLB-2029174739-roteador-mesh-tp-link-deco-x20-branco-2-unidades-_JM,TP-Link
+LV-WR09,97.67,(1403),2689,https://produto.mercadolivre.com.br/MLB-1153985026-roteador-repetidor-expansor-amplificador-wifi-original-t28-_JM,Pix-Link
+Archer,150.58,(707),76,https://produto.mercadolivre.com.br/MLB-1669024474-roteador-tp-link-wi-fi-dual-band-ac750-archer-c21-_JM,TP-Link
+RF 301K,160,(1093),3,https://produto.mercadolivre.com.br/MLB-1544439048-roteador-wi-fi-intelbras-n-300-mbps-rf301k-_JM,Intelbras
+TL-WA855RE,194.20,(1816),7,https://produto.mercadolivre.com.br/MLB-908366467-repetidor-de-sinal-wifi-tp-link-tl-wa855re-wireless-300-mbps-_JM,TP-Link
+TL-WA855RE,188,(1816),460,https://produto.mercadolivre.com.br/MLB-1305780669-repetidor-e-extensor-de-sinal-wifi-tp-link-tl-wa855re-300mbps-wi-fi-_JM,TP-Link
+DIR-842,198,(523),8,https://produto.mercadolivre.com.br/MLB-2806751240-roteador-wireless-d-link-preto-dir842-bivolt-_JM,D-Link
+Deco,1558.97,(1235),8,https://produto.mercadolivre.com.br/MLB-2015325150-roteador-wi-fi-mesh-tp-link-deco-m5-bivolt-3-unidades-_JM,TP-Link
+RE163V,154.90,(349),11,https://produto.mercadolivre.com.br/MLB-1939358869-roteador-multilaser-wireless-wifi-sem-fio-300mbps-3-antenas-_JM,Multilaser
+DAP-1610,217.90,(144),5,https://produto.mercadolivre.com.br/MLB-2696293234-repetidor-wifi-ac1200-dap-1610-2-antenas-novo-branco-nf-_JM,D-Link
+Archer,719,(5532),12,https://produto.mercadolivre.com.br/MLB-2706890405-roteador-wireless-tp-link-archer-ac20-ac750-kit-10-unidades-_JM,TP-Link
+TL-WA855RE,242.89,(1816),8,https://produto.mercadolivre.com.br/MLB-1491068599-repetidor-extensor-wi-fi-2-ant-300mbps-tp-link-tl-wa855re-_JM,TP-Link
+Wifi,398,(114),19,https://produto.mercadolivre.com.br/MLB-2698642287-roteador-google-wi-fi-mesh-_JM,Google
+LV-WR09,109.90,(5358),17,https://produto.mercadolivre.com.br/MLB-1935945582-repetidor-de-sinal-wifi-expansor-wireless-300m-internet-_JM,Pix-Link
